@@ -1,0 +1,3470 @@
+[2025-11-03T13:20:49.061Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-03T13:20:49.063Z] ✅ Server running at http://localhost:5001
+[2025-11-03T13:20:53.607Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-03T13:20:53.610Z] ✅ Server running at http://localhost:5001
+[2025-11-03T13:20:58.035Z] 🚀 Route hit: POST /bookings/new
+[2025-11-03T13:20:58.035Z] 📦 Request Body: {
+  "pet_id": 74,
+  "service_id": 1,
+  "service_pricing_id": 2,
+  "address_id": 56,
+  "appointment_time_slots": [
+    "2025-11-05T04:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 1649,
+  "tax": 296.82,
+  "total": 1945.82,
+  "notes": "",
+  "nature": "Friendly",
+  "health_conditions": "Senior dog",
+  "bookingServices": [
+    {
+      "service_pricing_id": 2,
+      "parent_service_id": null,
+      "amount": 850,
+      "tax": 153,
+      "total": 1003
+    },
+    {
+      "service_pricing_id": 24,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    }
+  ]
+}
+[2025-11-03T13:24:14.645Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-03T13:24:14.650Z] ✅ Server running at http://localhost:5001
+[2025-11-03T13:24:20.082Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-03T13:24:20.085Z] ✅ Server running at http://localhost:5001
+[2025-11-03T13:24:31.189Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-03T13:24:31.192Z] ✅ Server running at http://localhost:5001
+[2025-11-03T13:24:46.283Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-03T13:24:46.285Z] ✅ Server running at http://localhost:5001
+[2025-11-03T13:25:04.022Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-03T13:25:04.025Z] ✅ Server running at http://localhost:5001
+[2025-11-03T13:25:13.584Z] 🚀 Route hit: POST /bookings/new
+[2025-11-03T13:25:13.584Z] 📦 Request Body: {
+  "pet_id": 74,
+  "service_id": 1,
+  "service_pricing_id": 2,
+  "address_id": 56,
+  "appointment_time_slots": [
+    "2025-11-05T04:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 1649,
+  "tax": 296.82,
+  "total": 1945.82,
+  "notes": "",
+  "nature": "Friendly",
+  "health_conditions": "Senior dog",
+  "bookingServices": [
+    {
+      "service_pricing_id": 2,
+      "parent_service_id": null,
+      "amount": 850,
+      "tax": 153,
+      "total": 1003
+    },
+    {
+      "service_pricing_id": 24,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    }
+  ]
+}
+[2025-11-03T13:25:54.578Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-03T13:25:54.581Z] ✅ Server running at http://localhost:5001
+[2025-11-03T13:26:23.767Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-03T13:26:23.770Z] ✅ Server running at http://localhost:5001
+[2025-11-03T13:26:25.751Z] 🚀 Route hit: POST /bookings/new
+[2025-11-03T13:26:25.752Z] 📦 Request Body: {
+  "pet_id": 74,
+  "service_id": 1,
+  "service_pricing_id": 2,
+  "address_id": 56,
+  "appointment_time_slots": [
+    "2025-11-05T04:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 1649,
+  "tax": 296.82,
+  "total": 1945.82,
+  "notes": "",
+  "nature": "Friendly",
+  "health_conditions": "Senior dog",
+  "bookingServices": [
+    {
+      "service_pricing_id": 2,
+      "parent_service_id": null,
+      "amount": 850,
+      "tax": 153,
+      "total": 1003
+    },
+    {
+      "service_pricing_id": 24,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    }
+  ]
+}
+[2025-11-03T13:26:41.563Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-03T13:26:41.565Z] ✅ Server running at http://localhost:5001
+[2025-11-03T13:31:00.022Z] ⏰ Running daily reminder cron at Mon Nov 03 2025 19:01:00 GMT+0530 (India Standard Time)
+[2025-11-03T13:31:00.364Z] 📩 SMS sent to customer 919579279673 for booking id 489 sent at Mon Nov 03 2025 19:01:00 GMT+0530 (India Standard Time)
+[2025-11-03T13:31:00.423Z] 📩 SMS sent to customer 919579279673 for booking id 490 sent at Mon Nov 03 2025 19:01:00 GMT+0530 (India Standard Time)
+[2025-11-03T13:31:00.480Z] 📩 SMS sent to customer 919579279673 for booking id 491 sent at Mon Nov 03 2025 19:01:00 GMT+0530 (India Standard Time)
+[2025-11-03T13:31:00.533Z] 📩 SMS sent to customer 919579279673 for booking id 492 sent at Mon Nov 03 2025 19:01:00 GMT+0530 (India Standard Time)
+[2025-11-03T13:31:00.585Z] 📩 SMS sent to customer 919579279673 for booking id 493 sent at Mon Nov 03 2025 19:01:00 GMT+0530 (India Standard Time)
+[2025-11-03T13:31:00.643Z] 📩 SMS sent to customer 919579279673 for booking id 494 sent at Mon Nov 03 2025 19:01:00 GMT+0530 (India Standard Time)
+[2025-11-03T13:31:00.704Z] 📩 SMS sent to customer 919579279673 for booking id 495 sent at Mon Nov 03 2025 19:01:00 GMT+0530 (India Standard Time)
+[2025-11-03T13:31:00.765Z] 📩 SMS sent to customer 919579279673 for booking id 496 sent at Mon Nov 03 2025 19:01:00 GMT+0530 (India Standard Time)
+[2025-11-03T13:31:00.824Z] 📩 SMS sent to customer 919579279673 for booking id 497 sent at Mon Nov 03 2025 19:01:00 GMT+0530 (India Standard Time)
+[2025-11-03T13:31:00.898Z] 📩 SMS sent to customer 919579279673 for booking id 481 sent at Mon Nov 03 2025 19:01:00 GMT+0530 (India Standard Time)
+[2025-11-03T13:32:08.279Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-03T13:32:08.281Z] ✅ Server running at http://localhost:5001
+[2025-11-03T13:32:14.536Z] 🚀 Route hit: POST /bookings/new
+[2025-11-03T13:32:14.536Z] 📦 Request Body: {
+  "pet_id": 74,
+  "service_id": 1,
+  "service_pricing_id": 2,
+  "address_id": 56,
+  "appointment_time_slots": [
+    "2025-11-05T04:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 1649,
+  "tax": 296.82,
+  "total": 1945.82,
+  "notes": "",
+  "nature": "Friendly",
+  "health_conditions": "Senior dog",
+  "bookingServices": [
+    {
+      "service_pricing_id": 2,
+      "parent_service_id": null,
+      "amount": 850,
+      "tax": 153,
+      "total": 1003
+    },
+    {
+      "service_pricing_id": 24,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    }
+  ]
+}
+[2025-11-03T13:32:32.482Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-03T13:32:32.485Z] ✅ Server running at http://localhost:5001
+[2025-11-03T13:32:37.676Z] 🚀 Route hit: POST /bookings/new
+[2025-11-03T13:32:37.676Z] 📦 Request Body: {
+  "pet_id": 74,
+  "service_id": 1,
+  "service_pricing_id": 2,
+  "address_id": 56,
+  "appointment_time_slots": [
+    "2025-11-05T04:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 1649,
+  "tax": 296.82,
+  "total": 1945.82,
+  "notes": "",
+  "nature": "Friendly",
+  "health_conditions": "Senior dog",
+  "bookingServices": [
+    {
+      "service_pricing_id": 2,
+      "parent_service_id": null,
+      "amount": 850,
+      "tax": 153,
+      "total": 1003
+    },
+    {
+      "service_pricing_id": 24,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    }
+  ]
+}
+[2025-11-03T13:33:44.424Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-03T13:33:44.427Z] ✅ Server running at http://localhost:5001
+[2025-11-03T13:33:47.352Z] 🚀 Route hit: POST /bookings/new
+[2025-11-03T13:33:47.352Z] 📦 Request Body: {
+  "pet_id": 74,
+  "service_id": 1,
+  "service_pricing_id": 2,
+  "address_id": 56,
+  "appointment_time_slots": [
+    "2025-11-05T04:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 1649,
+  "tax": 296.82,
+  "total": 1945.82,
+  "notes": "",
+  "nature": "Friendly",
+  "health_conditions": "Senior dog",
+  "bookingServices": [
+    {
+      "service_pricing_id": 2,
+      "parent_service_id": null,
+      "amount": 850,
+      "tax": 153,
+      "total": 1003
+    },
+    {
+      "service_pricing_id": 24,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    }
+  ]
+}
+[2025-11-03T13:39:48.185Z] 🚀 Route hit: GET /categories/list
+[2025-11-03T13:39:48.205Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-03T13:39:48.209Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-03T13:39:48.214Z] 🚀 Route hit: GET /addresses/list
+[2025-11-03T13:39:48.216Z] 🚀 Route hit: GET /pets/list
+[2025-11-03T13:49:49.394Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-03T13:49:49.421Z] 🚀 Route hit: GET /categories/list
+[2025-11-03T13:49:49.425Z] 🚀 Route hit: GET /pets/list
+[2025-11-03T13:49:49.427Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-03T13:49:49.437Z] 🚀 Route hit: GET /addresses/list
+[2025-11-03T13:56:48.919Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-03T13:56:48.941Z] 🚀 Route hit: GET /categories/list
+[2025-11-03T13:56:48.943Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-03T13:56:48.944Z] 🚀 Route hit: GET /pets/list
+[2025-11-03T13:56:48.947Z] 🚀 Route hit: GET /addresses/list
+[2025-11-03T13:56:49.606Z] 🚀 Route hit: GET /categories/list
+[2025-11-03T13:56:49.608Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-03T13:56:49.609Z] 🚀 Route hit: GET /pets/list
+[2025-11-03T13:56:49.610Z] 🚀 Route hit: GET /addresses/list
+[2025-11-03T13:56:49.612Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-03T13:56:49.730Z] 🚀 Route hit: GET //uploads/services/aecf4c41f7b491c7f4998020061f30ddb438f894.jpg
+[2025-11-03T13:56:49.742Z] 🚀 Route hit: GET //uploads/services/06835727bcb89a255a7915f647aa0e2d4f76d7f7.jpg
+[2025-11-03T13:56:49.743Z] 🚀 Route hit: GET //uploads/services/79a481c89836b50185764abaca6d556264dc0afd.jpg
+[2025-11-03T13:56:49.744Z] 🚀 Route hit: GET //uploads/services/9ab7b14c006121f72aeb1976dd42ba537c59b398.jpg
+[2025-11-03T13:56:49.744Z] 🚀 Route hit: GET //uploads/services/648a495c529de0b2e15ca0b6032c4aab81b64151.jpg
+[2025-11-03T13:56:49.745Z] 🚀 Route hit: GET //uploads/services/e65ecc5f817f5542fc3e2eb65b21480824364abe.jpg
+[2025-11-03T13:56:55.217Z] 🚀 Route hit: GET //uploads/petPics/images%20(1)_1761573715110.png
+[2025-11-03T13:56:58.792Z] 🚀 Route hit: GET /slots/get_slots_with_booking_status?date=2025-11-03
+[2025-11-03T13:57:02.908Z] 🚀 Route hit: GET /slots/get_slots_with_booking_status?date=2025-11-04
+[2025-11-03T13:57:08.129Z] 🚀 Route hit: POST /bookings/new
+[2025-11-03T13:57:08.129Z] 📦 Request Body: {
+  "pet_id": 74,
+  "service_id": 1,
+  "service_pricing_id": 2,
+  "address_id": 56,
+  "appointment_time_slots": [
+    "2025-11-04T05:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 1649,
+  "tax": 296.82,
+  "total": 1945.82,
+  "notes": "",
+  "nature": "Friendly",
+  "health_conditions": "Senior dog",
+  "bookingServices": [
+    {
+      "service_pricing_id": 2,
+      "parent_service_id": null,
+      "amount": 850,
+      "tax": 153,
+      "total": 1003
+    },
+    {
+      "service_pricing_id": 21,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    }
+  ]
+}
+[2025-11-03T13:57:26.233Z] 🚀 Route hit: GET /categories/list
+[2025-11-03T13:57:26.236Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-03T13:57:26.239Z] 🚀 Route hit: GET /pets/list
+[2025-11-03T13:57:26.240Z] 🚀 Route hit: GET /addresses/list
+[2025-11-03T13:57:26.242Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-03T13:57:26.333Z] 🚀 Route hit: GET //uploads/services/aecf4c41f7b491c7f4998020061f30ddb438f894.jpg
+[2025-11-03T13:57:26.334Z] 🚀 Route hit: GET //uploads/services/06835727bcb89a255a7915f647aa0e2d4f76d7f7.jpg
+[2025-11-03T13:57:26.335Z] 🚀 Route hit: GET //uploads/services/79a481c89836b50185764abaca6d556264dc0afd.jpg
+[2025-11-03T13:57:26.336Z] 🚀 Route hit: GET //uploads/services/9ab7b14c006121f72aeb1976dd42ba537c59b398.jpg
+[2025-11-03T13:57:26.337Z] 🚀 Route hit: GET //uploads/services/648a495c529de0b2e15ca0b6032c4aab81b64151.jpg
+[2025-11-03T13:57:26.337Z] 🚀 Route hit: GET //uploads/services/e65ecc5f817f5542fc3e2eb65b21480824364abe.jpg
+[2025-11-03T15:58:29.607Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-03T15:58:29.613Z] 🚀 Route hit: GET /categories/list
+[2025-11-03T15:58:29.615Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-03T15:58:29.616Z] 🚀 Route hit: GET /pets/list
+[2025-11-03T15:58:29.619Z] 🚀 Route hit: GET /addresses/list
+[2025-11-03T16:40:35.296Z] 🚀 Route hit: GET /categories/list
+[2025-11-03T16:40:35.310Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-03T16:40:35.312Z] 🚀 Route hit: GET /pets/list
+[2025-11-03T16:40:35.315Z] 🚀 Route hit: GET /addresses/list
+[2025-11-03T16:40:35.318Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-03T16:40:35.581Z] 🚀 Route hit: GET //uploads/services/aecf4c41f7b491c7f4998020061f30ddb438f894.jpg
+[2025-11-03T16:40:35.582Z] 🚀 Route hit: GET //uploads/services/06835727bcb89a255a7915f647aa0e2d4f76d7f7.jpg
+[2025-11-03T16:40:35.584Z] 🚀 Route hit: GET //uploads/services/79a481c89836b50185764abaca6d556264dc0afd.jpg
+[2025-11-03T16:40:35.585Z] 🚀 Route hit: GET //uploads/services/9ab7b14c006121f72aeb1976dd42ba537c59b398.jpg
+[2025-11-03T16:40:35.586Z] 🚀 Route hit: GET //uploads/services/648a495c529de0b2e15ca0b6032c4aab81b64151.jpg
+[2025-11-03T16:40:35.587Z] 🚀 Route hit: GET //uploads/services/e65ecc5f817f5542fc3e2eb65b21480824364abe.jpg
+[2025-11-03T16:41:30.376Z] 🚀 Route hit: GET //uploads/petPics/images%20(1)_1761573715110.png
+[2025-11-03T16:41:35.302Z] 🚀 Route hit: GET /slots/get_slots_with_booking_status?date=2025-11-03
+[2025-11-03T16:41:37.967Z] 🚀 Route hit: GET /slots/get_slots_with_booking_status?date=2025-11-04
+[2025-11-03T16:41:42.931Z] 🚀 Route hit: POST /bookings/new
+[2025-11-03T16:41:42.932Z] 📦 Request Body: {
+  "pet_id": 74,
+  "service_id": 1,
+  "service_pricing_id": 2,
+  "address_id": 57,
+  "appointment_time_slots": [
+    "2025-11-04T06:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 1649,
+  "tax": 296.82,
+  "total": 1945.82,
+  "notes": "",
+  "nature": "Friendly",
+  "health_conditions": "Senior dog",
+  "bookingServices": [
+    {
+      "service_pricing_id": 2,
+      "parent_service_id": null,
+      "amount": 850,
+      "tax": 153,
+      "total": 1003
+    },
+    {
+      "service_pricing_id": 24,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    }
+  ]
+}
+[2025-11-03T16:50:14.017Z] 🚀 Route hit: GET /categories/list
+[2025-11-03T16:50:14.270Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-03T16:50:14.290Z] 🚀 Route hit: GET /addresses/list
+[2025-11-03T16:50:14.328Z] 🚀 Route hit: GET /pets/list
+[2025-11-03T16:50:14.361Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-03T16:50:14.828Z] 🚀 Route hit: GET //uploads/services/aecf4c41f7b491c7f4998020061f30ddb438f894.jpg
+[2025-11-03T16:50:14.858Z] 🚀 Route hit: GET //uploads/services/06835727bcb89a255a7915f647aa0e2d4f76d7f7.jpg
+[2025-11-03T16:50:14.860Z] 🚀 Route hit: GET //uploads/services/79a481c89836b50185764abaca6d556264dc0afd.jpg
+[2025-11-03T16:50:14.879Z] 🚀 Route hit: GET //uploads/services/9ab7b14c006121f72aeb1976dd42ba537c59b398.jpg
+[2025-11-03T16:50:14.897Z] 🚀 Route hit: GET //uploads/services/648a495c529de0b2e15ca0b6032c4aab81b64151.jpg
+[2025-11-03T16:50:14.898Z] 🚀 Route hit: GET //uploads/services/e65ecc5f817f5542fc3e2eb65b21480824364abe.jpg
+[2025-11-03T16:50:16.825Z] 🚀 Route hit: GET /categories/list
+[2025-11-03T16:50:16.831Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-03T16:50:16.834Z] 🚀 Route hit: GET /pets/list
+[2025-11-03T16:50:16.838Z] 🚀 Route hit: GET /addresses/list
+[2025-11-03T16:50:16.853Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-03T16:50:16.913Z] 🚀 Route hit: GET //uploads/services/aecf4c41f7b491c7f4998020061f30ddb438f894.jpg
+[2025-11-03T16:50:16.918Z] 🚀 Route hit: GET //uploads/services/06835727bcb89a255a7915f647aa0e2d4f76d7f7.jpg
+[2025-11-03T16:50:16.923Z] 🚀 Route hit: GET //uploads/services/79a481c89836b50185764abaca6d556264dc0afd.jpg
+[2025-11-03T16:50:16.926Z] 🚀 Route hit: GET //uploads/services/9ab7b14c006121f72aeb1976dd42ba537c59b398.jpg
+[2025-11-03T16:50:16.929Z] 🚀 Route hit: GET //uploads/services/648a495c529de0b2e15ca0b6032c4aab81b64151.jpg
+[2025-11-03T16:50:16.930Z] 🚀 Route hit: GET //uploads/services/e65ecc5f817f5542fc3e2eb65b21480824364abe.jpg
+[2025-11-03T16:52:59.734Z] 🚀 Route hit: GET /categories/list
+[2025-11-03T16:52:59.745Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-03T16:52:59.754Z] 🚀 Route hit: GET /addresses/list
+[2025-11-03T16:52:59.781Z] 🚀 Route hit: GET /pets/list
+[2025-11-03T16:52:59.782Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-03T16:53:00.152Z] 🚀 Route hit: GET //uploads/services/aecf4c41f7b491c7f4998020061f30ddb438f894.jpg
+[2025-11-03T16:53:00.173Z] 🚀 Route hit: GET //uploads/services/06835727bcb89a255a7915f647aa0e2d4f76d7f7.jpg
+[2025-11-03T16:53:00.175Z] 🚀 Route hit: GET //uploads/services/79a481c89836b50185764abaca6d556264dc0afd.jpg
+[2025-11-03T16:53:00.180Z] 🚀 Route hit: GET //uploads/services/9ab7b14c006121f72aeb1976dd42ba537c59b398.jpg
+[2025-11-03T16:53:00.181Z] 🚀 Route hit: GET //uploads/services/648a495c529de0b2e15ca0b6032c4aab81b64151.jpg
+[2025-11-03T16:53:00.182Z] 🚀 Route hit: GET //uploads/services/e65ecc5f817f5542fc3e2eb65b21480824364abe.jpg
+[2025-11-03T16:56:46.954Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-03T16:56:46.958Z] ✅ Server running at http://localhost:5001
+[2025-11-03T16:57:28.070Z] 🚀 Route hit: GET //uploads/petPics/images%20(1)_1761573715110.png
+[2025-11-03T16:57:28.081Z] 🚀 Route hit: GET /pets/list
+[2025-11-03T16:57:33.705Z] 🚀 Route hit: GET /slots/get_slots_with_booking_status?date=2025-11-03
+[2025-11-03T16:57:35.882Z] 🚀 Route hit: GET /slots/get_slots_with_booking_status?date=2025-11-04
+[2025-11-03T16:57:39.759Z] 🚀 Route hit: GET //uploads/petPics/images%20(1)_1761573715110.png
+[2025-11-03T16:57:41.583Z] 🚀 Route hit: POST /bookings/new
+[2025-11-03T16:57:41.583Z] 📦 Request Body: {
+  "pet_id": 71,
+  "service_id": 1,
+  "service_pricing_id": 2,
+  "address_id": 57,
+  "appointment_time_slots": [
+    "2025-11-04T06:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 1649,
+  "tax": 296.82,
+  "total": 1945.82,
+  "notes": "",
+  "nature": "calm",
+  "health_conditions": "good",
+  "bookingServices": [
+    {
+      "service_pricing_id": 2,
+      "parent_service_id": null,
+      "amount": 850,
+      "tax": 153,
+      "total": 1003
+    },
+    {
+      "service_pricing_id": 24,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    }
+  ]
+}
+[2025-11-03T16:57:53.465Z] 🚀 Route hit: GET /categories/list
+[2025-11-03T16:57:53.468Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-03T16:57:53.470Z] 🚀 Route hit: GET /pets/list
+[2025-11-03T16:57:53.477Z] 🚀 Route hit: GET /addresses/list
+[2025-11-03T16:57:53.484Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-03T16:57:53.648Z] 🚀 Route hit: GET //uploads/services/aecf4c41f7b491c7f4998020061f30ddb438f894.jpg
+[2025-11-03T16:57:53.651Z] 🚀 Route hit: GET //uploads/services/06835727bcb89a255a7915f647aa0e2d4f76d7f7.jpg
+[2025-11-03T16:57:53.654Z] 🚀 Route hit: GET //uploads/services/79a481c89836b50185764abaca6d556264dc0afd.jpg
+[2025-11-03T16:57:53.656Z] 🚀 Route hit: GET //uploads/services/9ab7b14c006121f72aeb1976dd42ba537c59b398.jpg
+[2025-11-03T16:57:53.657Z] 🚀 Route hit: GET //uploads/services/648a495c529de0b2e15ca0b6032c4aab81b64151.jpg
+[2025-11-03T16:57:53.658Z] 🚀 Route hit: GET //uploads/services/e65ecc5f817f5542fc3e2eb65b21480824364abe.jpg
+[2025-11-04T03:42:39.752Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T03:42:39.767Z] 🚀 Route hit: GET /categories/list
+[2025-11-04T03:42:39.769Z] 🚀 Route hit: GET /pets/list
+[2025-11-04T03:42:39.771Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-04T03:42:39.774Z] 🚀 Route hit: GET /addresses/list
+[2025-11-04T04:16:19.361Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T04:16:19.415Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-04T04:16:19.416Z] 🚀 Route hit: GET /categories/list
+[2025-11-04T04:16:19.421Z] 🚀 Route hit: GET /pets/list
+[2025-11-04T04:16:19.424Z] 🚀 Route hit: GET /addresses/list
+[2025-11-04T04:19:57.596Z] 🚀 Route hit: GET //uploads/petPics/images%20(1)_1761573715110.png
+[2025-11-04T04:19:57.612Z] 🚀 Route hit: GET /pets/list
+[2025-11-04T04:20:16.965Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T04:20:16.968Z] ✅ Server running at http://localhost:5001
+[2025-11-04T04:21:13.575Z] 🚀 Route hit: GET /categories/list
+[2025-11-04T04:21:13.592Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-04T04:21:13.595Z] 🚀 Route hit: GET /pets/list
+[2025-11-04T04:21:13.597Z] 🚀 Route hit: GET /addresses/list
+[2025-11-04T04:21:13.602Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T04:21:13.744Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T04:21:13.769Z] 🚀 Route hit: GET //uploads/services/aecf4c41f7b491c7f4998020061f30ddb438f894.jpg
+[2025-11-04T04:21:13.773Z] 🚀 Route hit: GET //uploads/services/06835727bcb89a255a7915f647aa0e2d4f76d7f7.jpg
+[2025-11-04T04:21:13.774Z] 🚀 Route hit: GET //uploads/services/79a481c89836b50185764abaca6d556264dc0afd.jpg
+[2025-11-04T04:21:13.776Z] 🚀 Route hit: GET //uploads/services/9ab7b14c006121f72aeb1976dd42ba537c59b398.jpg
+[2025-11-04T04:21:13.777Z] 🚀 Route hit: GET //uploads/services/648a495c529de0b2e15ca0b6032c4aab81b64151.jpg
+[2025-11-04T04:21:13.779Z] 🚀 Route hit: GET //uploads/services/e65ecc5f817f5542fc3e2eb65b21480824364abe.jpg
+[2025-11-04T04:21:15.646Z] 🚀 Route hit: GET /categories/list
+[2025-11-04T04:21:15.649Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-04T04:21:15.652Z] 🚀 Route hit: GET /pets/list
+[2025-11-04T04:21:15.654Z] 🚀 Route hit: GET /addresses/list
+[2025-11-04T04:21:15.694Z] 🚀 Route hit: GET //uploads/services/aecf4c41f7b491c7f4998020061f30ddb438f894.jpg
+[2025-11-04T04:21:15.696Z] 🚀 Route hit: GET //uploads/services/06835727bcb89a255a7915f647aa0e2d4f76d7f7.jpg
+[2025-11-04T04:21:15.696Z] 🚀 Route hit: GET //uploads/services/79a481c89836b50185764abaca6d556264dc0afd.jpg
+[2025-11-04T04:21:15.697Z] 🚀 Route hit: GET //uploads/services/9ab7b14c006121f72aeb1976dd42ba537c59b398.jpg
+[2025-11-04T04:21:15.698Z] 🚀 Route hit: GET //uploads/services/648a495c529de0b2e15ca0b6032c4aab81b64151.jpg
+[2025-11-04T04:21:15.699Z] 🚀 Route hit: GET //uploads/services/e65ecc5f817f5542fc3e2eb65b21480824364abe.jpg
+[2025-11-04T04:21:34.188Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T04:21:34.190Z] ✅ Server running at http://localhost:5001
+[2025-11-04T04:21:36.314Z] 🚀 Route hit: GET /categories/list
+[2025-11-04T04:21:36.326Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-04T04:21:36.329Z] 🚀 Route hit: GET /pets/list
+[2025-11-04T04:21:36.332Z] 🚀 Route hit: GET /addresses/list
+[2025-11-04T04:21:36.335Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T04:21:36.431Z] 🚀 Route hit: GET //uploads/services/aecf4c41f7b491c7f4998020061f30ddb438f894.jpg
+[2025-11-04T04:21:36.433Z] 🚀 Route hit: GET //uploads/services/06835727bcb89a255a7915f647aa0e2d4f76d7f7.jpg
+[2025-11-04T04:21:36.438Z] 🚀 Route hit: GET //uploads/services/79a481c89836b50185764abaca6d556264dc0afd.jpg
+[2025-11-04T04:21:36.440Z] 🚀 Route hit: GET //uploads/services/9ab7b14c006121f72aeb1976dd42ba537c59b398.jpg
+[2025-11-04T04:21:36.441Z] 🚀 Route hit: GET //uploads/services/648a495c529de0b2e15ca0b6032c4aab81b64151.jpg
+[2025-11-04T04:21:36.441Z] 🚀 Route hit: GET //uploads/services/e65ecc5f817f5542fc3e2eb65b21480824364abe.jpg
+[2025-11-04T04:21:42.283Z] 🚀 Route hit: GET //uploads/petPics/images%20(1)_1761573715110.png
+[2025-11-04T04:21:46.212Z] 🚀 Route hit: GET /slots/get_slots_with_booking_status?date=2025-11-04
+[2025-11-04T04:21:51.051Z] 🚀 Route hit: POST /bookings/new
+[2025-11-04T04:21:51.052Z] 📦 Request Body: {
+  "pet_id": 74,
+  "service_id": 1,
+  "service_pricing_id": 2,
+  "address_id": 57,
+  "appointment_time_slots": [
+    "2025-11-04T06:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 1649,
+  "tax": 296.82,
+  "total": 1945.82,
+  "notes": "",
+  "nature": "Friendly",
+  "health_conditions": "Senior dog",
+  "bookingServices": [
+    {
+      "service_pricing_id": 2,
+      "parent_service_id": null,
+      "amount": 850,
+      "tax": 153,
+      "total": 1003
+    },
+    {
+      "service_pricing_id": 21,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    }
+  ]
+}
+[2025-11-04T04:23:53.780Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T04:23:53.784Z] ✅ Server running at http://localhost:5001
+[2025-11-04T04:24:01.005Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T04:24:01.009Z] ✅ Server running at http://localhost:5001
+[2025-11-04T04:24:04.652Z] 🚀 Route hit: POST /bookings/new
+[2025-11-04T04:24:04.652Z] 📦 Request Body: {
+  "pet_id": 74,
+  "service_id": 1,
+  "service_pricing_id": 2,
+  "address_id": 57,
+  "appointment_time_slots": [
+    "2025-11-04T06:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 1649,
+  "tax": 296.82,
+  "total": 1945.82,
+  "notes": "",
+  "nature": "Friendly",
+  "health_conditions": "Senior dog",
+  "bookingServices": [
+    {
+      "service_pricing_id": 2,
+      "parent_service_id": null,
+      "amount": 850,
+      "tax": 153,
+      "total": 1003
+    },
+    {
+      "service_pricing_id": 21,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    }
+  ]
+}
+[2025-11-04T04:28:17.075Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T04:28:17.079Z] ✅ Server running at http://localhost:5001
+[2025-11-04T04:29:43.420Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T04:29:43.425Z] ✅ Server running at http://localhost:5001
+[2025-11-04T04:29:45.993Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T04:29:46.030Z] 🚀 Route hit: GET /categories/list
+[2025-11-04T04:29:46.034Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-04T04:29:46.036Z] 🚀 Route hit: GET /pets/list
+[2025-11-04T04:29:46.038Z] 🚀 Route hit: GET /addresses/list
+[2025-11-04T04:29:46.728Z] 🚀 Route hit: POST /bookings/new
+[2025-11-04T04:29:46.728Z] 📦 Request Body: {
+  "pet_id": 74,
+  "service_id": 1,
+  "service_pricing_id": 2,
+  "address_id": 57,
+  "appointment_time_slots": [
+    "2025-11-04T06:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 1649,
+  "tax": 296.82,
+  "total": 1945.82,
+  "notes": "",
+  "nature": "Friendly",
+  "health_conditions": "Senior dog",
+  "bookingServices": [
+    {
+      "service_pricing_id": 2,
+      "parent_service_id": null,
+      "amount": 850,
+      "tax": 153,
+      "total": 1003
+    },
+    {
+      "service_pricing_id": 21,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    }
+  ]
+}
+[2025-11-04T04:30:41.897Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T04:30:41.900Z] ✅ Server running at http://localhost:5001
+[2025-11-04T04:30:48.997Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T04:30:49.000Z] ✅ Server running at http://localhost:5001
+[2025-11-04T04:30:53.876Z] 🚀 Route hit: GET /categories/list
+[2025-11-04T04:30:53.928Z] 🚀 Route hit: GET /pets/list
+[2025-11-04T04:30:53.938Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-04T04:30:53.948Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T04:30:53.950Z] 🚀 Route hit: GET /addresses/list
+[2025-11-04T04:30:54.100Z] 🚀 Route hit: GET //uploads/services/aecf4c41f7b491c7f4998020061f30ddb438f894.jpg
+[2025-11-04T04:30:54.105Z] 🚀 Route hit: GET //uploads/services/06835727bcb89a255a7915f647aa0e2d4f76d7f7.jpg
+[2025-11-04T04:30:54.110Z] 🚀 Route hit: GET //uploads/services/79a481c89836b50185764abaca6d556264dc0afd.jpg
+[2025-11-04T04:30:54.113Z] 🚀 Route hit: GET //uploads/services/9ab7b14c006121f72aeb1976dd42ba537c59b398.jpg
+[2025-11-04T04:30:54.122Z] 🚀 Route hit: GET //uploads/services/648a495c529de0b2e15ca0b6032c4aab81b64151.jpg
+[2025-11-04T04:30:54.128Z] 🚀 Route hit: GET //uploads/services/e65ecc5f817f5542fc3e2eb65b21480824364abe.jpg
+[2025-11-04T04:31:00.019Z] ⏰ Running daily reminder cron at Tue Nov 04 2025 10:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T04:31:00.637Z] 📩 SMS sent to customer 919579279673 for booking id 489 sent at Tue Nov 04 2025 10:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T04:31:00.690Z] 📩 SMS sent to customer 919579279673 for booking id 490 sent at Tue Nov 04 2025 10:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T04:31:00.764Z] 📩 SMS sent to customer 919579279673 for booking id 491 sent at Tue Nov 04 2025 10:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T04:31:00.810Z] 📩 SMS sent to customer 919579279673 for booking id 492 sent at Tue Nov 04 2025 10:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T04:31:02.491Z] 📩 SMS sent to customer 919579279673 for booking id 493 sent at Tue Nov 04 2025 10:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T04:31:02.538Z] 📩 SMS sent to customer 919579279673 for booking id 494 sent at Tue Nov 04 2025 10:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T04:31:02.605Z] 📩 SMS sent to customer 919579279673 for booking id 495 sent at Tue Nov 04 2025 10:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T04:31:02.668Z] 📩 SMS sent to customer 919579279673 for booking id 496 sent at Tue Nov 04 2025 10:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T04:31:02.713Z] 📩 SMS sent to customer 919579279673 for booking id 497 sent at Tue Nov 04 2025 10:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T04:31:02.756Z] 📩 SMS sent to customer 919579279673 for booking id 498 sent at Tue Nov 04 2025 10:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T04:31:02.812Z] 📩 SMS sent to customer 919579279673 for booking id 499 sent at Tue Nov 04 2025 10:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T04:31:02.876Z] 📩 SMS sent to customer 919579279673 for booking id 500 sent at Tue Nov 04 2025 10:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T04:31:02.896Z] 🚀 Route hit: GET //uploads/petPics/images%20(1)_1761573715110.png
+[2025-11-04T04:31:02.948Z] 📩 SMS sent to customer 919579279673 for booking id 480 sent at Tue Nov 04 2025 10:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T04:31:03.008Z] 📩 SMS sent to customer 919579279673 for booking id 481 sent at Tue Nov 04 2025 10:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T04:31:03.063Z] 📩 SMS sent to customer 919579279673 for booking id 501 sent at Tue Nov 04 2025 10:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T04:31:03.107Z] 📩 SMS sent to customer 919579279673 for booking id 502 sent at Tue Nov 04 2025 10:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T04:31:03.152Z] 📩 SMS sent to customer 919579279673 for booking id 503 sent at Tue Nov 04 2025 10:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T04:31:03.199Z] 📩 SMS sent to customer 919579279673 for booking id 504 sent at Tue Nov 04 2025 10:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T04:31:03.243Z] 📩 SMS sent to customer 919579279673 for booking id 505 sent at Tue Nov 04 2025 10:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T04:31:03.278Z] 📩 SMS sent to customer 919579279673 for booking id 506 sent at Tue Nov 04 2025 10:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T04:31:06.358Z] 🚀 Route hit: GET /slots/get_slots_with_booking_status?date=2025-11-04
+[2025-11-04T04:31:52.866Z] 🚀 Route hit: POST /bookings/new
+[2025-11-04T04:31:52.867Z] 📦 Request Body: {
+  "pet_id": 74,
+  "service_id": 1,
+  "service_pricing_id": 2,
+  "address_id": 57,
+  "appointment_time_slots": [
+    "2025-11-04T07:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 1649,
+  "tax": 296.82,
+  "total": 1945.82,
+  "notes": "",
+  "nature": "Friendly",
+  "health_conditions": "Senior dog",
+  "bookingServices": [
+    {
+      "service_pricing_id": 2,
+      "parent_service_id": null,
+      "amount": 850,
+      "tax": 153,
+      "total": 1003
+    },
+    {
+      "service_pricing_id": 24,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    }
+  ]
+}
+[2025-11-04T04:32:04.194Z] 🚀 Route hit: GET /categories/list
+[2025-11-04T04:32:04.202Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-04T04:32:04.212Z] 🚀 Route hit: GET /pets/list
+[2025-11-04T04:32:04.217Z] 🚀 Route hit: GET /addresses/list
+[2025-11-04T04:32:04.219Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T04:32:04.473Z] 🚀 Route hit: GET //uploads/services/aecf4c41f7b491c7f4998020061f30ddb438f894.jpg
+[2025-11-04T04:32:04.475Z] 🚀 Route hit: GET //uploads/services/06835727bcb89a255a7915f647aa0e2d4f76d7f7.jpg
+[2025-11-04T04:32:04.477Z] 🚀 Route hit: GET //uploads/services/79a481c89836b50185764abaca6d556264dc0afd.jpg
+[2025-11-04T04:32:09.069Z] 🚀 Route hit: GET //uploads/services/9ab7b14c006121f72aeb1976dd42ba537c59b398.jpg
+[2025-11-04T04:32:09.166Z] 🚀 Route hit: GET //uploads/services/648a495c529de0b2e15ca0b6032c4aab81b64151.jpg
+[2025-11-04T04:32:10.133Z] 🚀 Route hit: GET //uploads/services/e65ecc5f817f5542fc3e2eb65b21480824364abe.jpg
+[2025-11-04T04:32:14.175Z] 🚀 Route hit: GET //uploads/petPics/images%20(1)_1761573715110.png
+[2025-11-04T04:32:17.950Z] 🚀 Route hit: GET /slots/get_slots_with_booking_status?date=2025-11-04
+[2025-11-04T04:32:24.875Z] 🚀 Route hit: POST /bookings/new
+[2025-11-04T04:32:24.876Z] 📦 Request Body: {
+  "pet_id": 72,
+  "service_id": 3,
+  "service_pricing_id": 6,
+  "address_id": 57,
+  "appointment_time_slots": [
+    "2025-11-04T09:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 2049,
+  "tax": 368.82,
+  "total": 2417.82,
+  "notes": "",
+  "nature": "Aggressive",
+  "health_conditions": "Healthy",
+  "bookingServices": [
+    {
+      "service_pricing_id": 6,
+      "parent_service_id": null,
+      "amount": 1250,
+      "tax": 225,
+      "total": 1475
+    },
+    {
+      "service_pricing_id": 25,
+      "parent_service_id": 3,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    }
+  ]
+}
+[2025-11-04T04:38:01.928Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T04:38:01.932Z] ✅ Server running at http://localhost:5001
+[2025-11-04T04:38:19.899Z] 🚀 Route hit: GET /categories/list
+[2025-11-04T04:38:19.944Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-04T04:38:19.946Z] 🚀 Route hit: GET /pets/list
+[2025-11-04T04:38:19.949Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T04:38:19.957Z] 🚀 Route hit: GET /addresses/list
+[2025-11-04T04:38:20.200Z] 🚀 Route hit: GET //uploads/services/aecf4c41f7b491c7f4998020061f30ddb438f894.jpg
+[2025-11-04T04:38:20.203Z] 🚀 Route hit: GET //uploads/services/06835727bcb89a255a7915f647aa0e2d4f76d7f7.jpg
+[2025-11-04T04:38:20.208Z] 🚀 Route hit: GET //uploads/services/79a481c89836b50185764abaca6d556264dc0afd.jpg
+[2025-11-04T04:38:21.036Z] 🚀 Route hit: GET //uploads/services/9ab7b14c006121f72aeb1976dd42ba537c59b398.jpg
+[2025-11-04T04:38:21.340Z] 🚀 Route hit: GET //uploads/services/648a495c529de0b2e15ca0b6032c4aab81b64151.jpg
+[2025-11-04T04:38:21.872Z] 🚀 Route hit: GET //uploads/services/e65ecc5f817f5542fc3e2eb65b21480824364abe.jpg
+[2025-11-04T04:38:24.873Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T04:38:24.876Z] ✅ Server running at http://localhost:5001
+[2025-11-04T04:38:29.760Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T04:38:29.763Z] ✅ Server running at http://localhost:5001
+[2025-11-04T04:38:38.207Z] 🚀 Route hit: GET //uploads/petPics/images%20(1)_1761573715110.png
+[2025-11-04T04:38:41.359Z] 🚀 Route hit: GET /slots/get_slots_with_booking_status?date=2025-11-04
+[2025-11-04T04:38:49.098Z] 🚀 Route hit: POST /bookings/new
+[2025-11-04T04:38:49.098Z] 📦 Request Body: {
+  "pet_id": 72,
+  "service_id": 4,
+  "service_pricing_id": 8,
+  "address_id": 57,
+  "appointment_time_slots": [
+    "2025-11-04T09:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 1549,
+  "tax": 278.82,
+  "total": 1827.82,
+  "notes": "",
+  "nature": "Aggressive",
+  "health_conditions": "Healthy",
+  "bookingServices": [
+    {
+      "service_pricing_id": 8,
+      "parent_service_id": null,
+      "amount": 750,
+      "tax": 135,
+      "total": 885
+    },
+    {
+      "service_pricing_id": 25,
+      "parent_service_id": 4,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    }
+  ]
+}
+[2025-11-04T04:42:39.024Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T04:42:39.027Z] ✅ Server running at http://localhost:5001
+[2025-11-04T04:42:50.591Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T04:42:50.594Z] ✅ Server running at http://localhost:5001
+[2025-11-04T04:42:53.262Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T04:42:53.265Z] ✅ Server running at http://localhost:5001
+[2025-11-04T04:42:55.259Z] 🚀 Route hit: POST /bookings/new
+[2025-11-04T04:42:55.259Z] 📦 Request Body: {
+  "pet_id": 72,
+  "service_id": 4,
+  "service_pricing_id": 8,
+  "address_id": 57,
+  "appointment_time_slots": [
+    "2025-11-04T09:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 1549,
+  "tax": 278.82,
+  "total": 1827.82,
+  "notes": "",
+  "nature": "Aggressive",
+  "health_conditions": "Healthy",
+  "bookingServices": [
+    {
+      "service_pricing_id": 8,
+      "parent_service_id": null,
+      "amount": 750,
+      "tax": 135,
+      "total": 885
+    },
+    {
+      "service_pricing_id": 25,
+      "parent_service_id": 4,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    }
+  ]
+}
+[2025-11-04T04:47:41.517Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T04:47:41.522Z] ✅ Server running at http://localhost:5001
+[2025-11-04T04:47:43.866Z] 🚀 Route hit: GET /categories/list
+[2025-11-04T04:47:43.891Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-04T04:47:43.894Z] 🚀 Route hit: GET /pets/list
+[2025-11-04T04:47:43.901Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T04:47:43.904Z] 🚀 Route hit: GET /addresses/list
+[2025-11-04T04:47:44.153Z] 🚀 Route hit: GET //uploads/services/aecf4c41f7b491c7f4998020061f30ddb438f894.jpg
+[2025-11-04T04:47:44.162Z] 🚀 Route hit: GET //uploads/services/06835727bcb89a255a7915f647aa0e2d4f76d7f7.jpg
+[2025-11-04T04:47:44.164Z] 🚀 Route hit: GET //uploads/services/79a481c89836b50185764abaca6d556264dc0afd.jpg
+[2025-11-04T04:47:45.652Z] 🚀 Route hit: GET //uploads/services/9ab7b14c006121f72aeb1976dd42ba537c59b398.jpg
+[2025-11-04T04:47:45.750Z] 🚀 Route hit: GET //uploads/services/648a495c529de0b2e15ca0b6032c4aab81b64151.jpg
+[2025-11-04T04:47:45.884Z] 🚀 Route hit: GET //uploads/services/e65ecc5f817f5542fc3e2eb65b21480824364abe.jpg
+[2025-11-04T04:47:50.809Z] 🚀 Route hit: GET //uploads/petPics/images%20(1)_1761573715110.png
+[2025-11-04T04:47:55.023Z] 🚀 Route hit: GET /slots/get_slots_with_booking_status?date=2025-11-04
+[2025-11-04T04:48:00.755Z] 🚀 Route hit: POST /bookings/new
+[2025-11-04T04:48:00.755Z] 📦 Request Body: {
+  "pet_id": 75,
+  "service_id": 1,
+  "service_pricing_id": 2,
+  "address_id": 57,
+  "appointment_time_slots": [
+    "2025-11-04T08:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 2448,
+  "tax": 440.64,
+  "total": 2888.64,
+  "notes": "",
+  "nature": "Aggressive",
+  "health_conditions": "Hip injury",
+  "bookingServices": [
+    {
+      "service_pricing_id": 2,
+      "parent_service_id": null,
+      "amount": 850,
+      "tax": 153,
+      "total": 1003
+    },
+    {
+      "service_pricing_id": 25,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    },
+    {
+      "service_pricing_id": 26,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    }
+  ]
+}
+[2025-11-04T04:51:51.063Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T04:51:51.067Z] ✅ Server running at http://localhost:5001
+[2025-11-04T04:51:55.536Z] 🚀 Route hit: POST /bookings/new
+[2025-11-04T04:51:55.537Z] 📦 Request Body: {
+  "pet_id": 75,
+  "service_id": 1,
+  "service_pricing_id": 2,
+  "address_id": 57,
+  "appointment_time_slots": [
+    "2025-11-04T08:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 2448,
+  "tax": 440.64,
+  "total": 2888.64,
+  "notes": "",
+  "nature": "Aggressive",
+  "health_conditions": "Hip injury",
+  "bookingServices": [
+    {
+      "service_pricing_id": 2,
+      "parent_service_id": null,
+      "amount": 850,
+      "tax": 153,
+      "total": 1003
+    },
+    {
+      "service_pricing_id": 25,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    },
+    {
+      "service_pricing_id": 26,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    }
+  ]
+}
+[2025-11-04T04:52:27.253Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T04:52:27.256Z] ✅ Server running at http://localhost:5001
+[2025-11-04T04:52:35.639Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T04:52:35.642Z] ✅ Server running at http://localhost:5001
+[2025-11-04T04:53:04.090Z] 🚀 Route hit: POST /bookings/new
+[2025-11-04T04:53:04.090Z] 📦 Request Body: {
+  "pet_id": 75,
+  "service_id": 1,
+  "service_pricing_id": 2,
+  "address_id": 57,
+  "appointment_time_slots": [
+    "2025-11-04T08:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 2448,
+  "tax": 440.64,
+  "total": 2888.64,
+  "notes": "",
+  "nature": "Aggressive",
+  "health_conditions": "Hip injury",
+  "bookingServices": [
+    {
+      "service_pricing_id": 2,
+      "parent_service_id": null,
+      "amount": 850,
+      "tax": 153,
+      "total": 1003
+    },
+    {
+      "service_pricing_id": 25,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    },
+    {
+      "service_pricing_id": 26,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    }
+  ]
+}
+[2025-11-04T04:56:05.734Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T04:56:05.737Z] ✅ Server running at http://localhost:5001
+[2025-11-04T04:56:07.645Z] 🚀 Route hit: POST /bookings/new
+[2025-11-04T04:56:07.646Z] 📦 Request Body: {
+  "pet_id": 75,
+  "service_id": 1,
+  "service_pricing_id": 2,
+  "address_id": 57,
+  "appointment_time_slots": [
+    "2025-11-04T08:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 2448,
+  "tax": 440.64,
+  "total": 2888.64,
+  "notes": "",
+  "nature": "Aggressive",
+  "health_conditions": "Hip injury",
+  "bookingServices": [
+    {
+      "service_pricing_id": 2,
+      "parent_service_id": null,
+      "amount": 850,
+      "tax": 153,
+      "total": 1003
+    },
+    {
+      "service_pricing_id": 25,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    },
+    {
+      "service_pricing_id": 26,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    }
+  ]
+}
+[2025-11-04T04:57:18.999Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T04:57:19.003Z] ✅ Server running at http://localhost:5001
+[2025-11-04T04:57:22.970Z] 🚀 Route hit: POST /bookings/new
+[2025-11-04T04:57:22.970Z] 📦 Request Body: {
+  "pet_id": 75,
+  "service_id": 1,
+  "service_pricing_id": 2,
+  "address_id": 57,
+  "appointment_time_slots": [
+    "2025-11-04T08:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 2448,
+  "tax": 440.64,
+  "total": 2888.64,
+  "notes": "",
+  "nature": "Aggressive",
+  "health_conditions": "Hip injury",
+  "bookingServices": [
+    {
+      "service_pricing_id": 2,
+      "parent_service_id": null,
+      "amount": 850,
+      "tax": 153,
+      "total": 1003
+    },
+    {
+      "service_pricing_id": 25,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    },
+    {
+      "service_pricing_id": 26,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    }
+  ]
+}
+[2025-11-04T04:58:12.930Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T04:58:12.933Z] ✅ Server running at http://localhost:5001
+[2025-11-04T04:58:18.022Z] 🚀 Route hit: GET /categories/list
+[2025-11-04T04:58:18.044Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-04T04:58:18.048Z] 🚀 Route hit: GET /addresses/list
+[2025-11-04T04:58:18.050Z] 🚀 Route hit: GET //uploads/services/aecf4c41f7b491c7f4998020061f30ddb438f894.jpg
+[2025-11-04T04:58:18.065Z] 🚀 Route hit: GET //uploads/services/06835727bcb89a255a7915f647aa0e2d4f76d7f7.jpg
+[2025-11-04T04:58:18.071Z] 🚀 Route hit: GET //uploads/services/79a481c89836b50185764abaca6d556264dc0afd.jpg
+[2025-11-04T04:58:18.074Z] 🚀 Route hit: GET //uploads/services/9ab7b14c006121f72aeb1976dd42ba537c59b398.jpg
+[2025-11-04T04:58:18.076Z] 🚀 Route hit: GET //uploads/services/648a495c529de0b2e15ca0b6032c4aab81b64151.jpg
+[2025-11-04T04:58:18.078Z] 🚀 Route hit: GET //uploads/services/e65ecc5f817f5542fc3e2eb65b21480824364abe.jpg
+[2025-11-04T04:58:22.465Z] 🚀 Route hit: GET //uploads/petPics/images%20(1)_1761573715110.png
+[2025-11-04T04:58:25.645Z] 🚀 Route hit: GET /slots/get_slots_with_booking_status?date=2025-11-04
+[2025-11-04T04:58:31.434Z] 🚀 Route hit: POST /bookings/new
+[2025-11-04T04:58:31.434Z] 📦 Request Body: {
+  "pet_id": 72,
+  "service_id": 4,
+  "service_pricing_id": 8,
+  "address_id": 57,
+  "appointment_time_slots": [
+    "2025-11-04T07:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 1549,
+  "tax": 278.82,
+  "total": 1827.82,
+  "notes": "",
+  "nature": "Aggressive",
+  "health_conditions": "Healthy",
+  "bookingServices": [
+    {
+      "service_pricing_id": 8,
+      "parent_service_id": null,
+      "amount": 750,
+      "tax": 135,
+      "total": 885
+    },
+    {
+      "service_pricing_id": 25,
+      "parent_service_id": 4,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    }
+  ]
+}
+[2025-11-04T05:01:45.935Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T05:01:45.940Z] ✅ Server running at http://localhost:5001
+[2025-11-04T05:01:49.876Z] 🚀 Route hit: GET //uploads/services/aecf4c41f7b491c7f4998020061f30ddb438f894.jpg
+[2025-11-04T05:01:49.881Z] 🚀 Route hit: GET //uploads/services/06835727bcb89a255a7915f647aa0e2d4f76d7f7.jpg
+[2025-11-04T05:01:49.885Z] 🚀 Route hit: GET //uploads/services/79a481c89836b50185764abaca6d556264dc0afd.jpg
+[2025-11-04T05:01:49.888Z] 🚀 Route hit: GET //uploads/services/9ab7b14c006121f72aeb1976dd42ba537c59b398.jpg
+[2025-11-04T05:01:49.894Z] 🚀 Route hit: GET //uploads/services/648a495c529de0b2e15ca0b6032c4aab81b64151.jpg
+[2025-11-04T05:01:49.895Z] 🚀 Route hit: GET //uploads/services/e65ecc5f817f5542fc3e2eb65b21480824364abe.jpg
+[2025-11-04T05:01:52.985Z] 🚀 Route hit: GET /pets/list
+[2025-11-04T05:01:53.011Z] 🚀 Route hit: GET /categories/list
+[2025-11-04T05:01:53.013Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-04T05:01:53.016Z] 🚀 Route hit: GET /addresses/list
+[2025-11-04T05:01:53.018Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T05:01:53.080Z] 🚀 Route hit: GET //uploads/services/aecf4c41f7b491c7f4998020061f30ddb438f894.jpg
+[2025-11-04T05:01:53.081Z] 🚀 Route hit: GET //uploads/services/06835727bcb89a255a7915f647aa0e2d4f76d7f7.jpg
+[2025-11-04T05:01:53.083Z] 🚀 Route hit: GET //uploads/services/79a481c89836b50185764abaca6d556264dc0afd.jpg
+[2025-11-04T05:01:53.084Z] 🚀 Route hit: GET //uploads/services/9ab7b14c006121f72aeb1976dd42ba537c59b398.jpg
+[2025-11-04T05:01:53.085Z] 🚀 Route hit: GET //uploads/services/648a495c529de0b2e15ca0b6032c4aab81b64151.jpg
+[2025-11-04T05:01:53.085Z] 🚀 Route hit: GET //uploads/services/e65ecc5f817f5542fc3e2eb65b21480824364abe.jpg
+[2025-11-04T05:01:56.691Z] 🚀 Route hit: GET //uploads/petPics/images%20(1)_1761573715110.png
+[2025-11-04T05:02:00.097Z] 🚀 Route hit: GET /slots/get_slots_with_booking_status?date=2025-11-04
+[2025-11-04T05:02:05.518Z] 🚀 Route hit: POST /bookings/new
+[2025-11-04T05:02:05.518Z] 📦 Request Body: {
+  "pet_id": 74,
+  "service_id": 1,
+  "service_pricing_id": 2,
+  "address_id": 57,
+  "appointment_time_slots": [
+    "2025-11-04T10:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 1649,
+  "tax": 296.82,
+  "total": 1945.82,
+  "notes": "",
+  "nature": "Friendly",
+  "health_conditions": "Senior dog",
+  "bookingServices": [
+    {
+      "service_pricing_id": 2,
+      "parent_service_id": null,
+      "amount": 850,
+      "tax": 153,
+      "total": 1003
+    },
+    {
+      "service_pricing_id": 24,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    }
+  ]
+}
+[2025-11-04T05:06:05.443Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T05:06:05.448Z] ✅ Server running at http://localhost:5001
+[2025-11-04T05:06:53.119Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T05:10:40.750Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-04T05:18:03.898Z] 🚀 Route hit: GET /bookings/list?page=2&limit=10&upcomingPast=upcoming
+[2025-11-04T05:18:05.328Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-04T05:31:00.019Z] ⏰ Running daily reminder cron at Tue Nov 04 2025 11:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T05:31:00.389Z] 📩 SMS sent to customer 919579279673 for booking id 507 sent at Tue Nov 04 2025 11:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T05:31:00.436Z] 📩 SMS sent to customer 919579279673 for booking id 508 sent at Tue Nov 04 2025 11:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T05:31:00.492Z] 📩 SMS sent to customer 919579279673 for booking id 509 sent at Tue Nov 04 2025 11:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T05:31:00.536Z] 📩 SMS sent to customer 919579279673 for booking id 510 sent at Tue Nov 04 2025 11:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T05:31:00.588Z] 📩 SMS sent to customer 919579279673 for booking id 511 sent at Tue Nov 04 2025 11:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T05:31:00.625Z] 📩 SMS sent to customer 919579279673 for booking id 512 sent at Tue Nov 04 2025 11:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T05:31:00.665Z] 📩 SMS sent to customer 919579279673 for booking id 513 sent at Tue Nov 04 2025 11:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T05:31:00.712Z] 📩 SMS sent to customer 919579279673 for booking id 514 sent at Tue Nov 04 2025 11:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T05:31:00.744Z] 📩 SMS sent to customer 919579279673 for booking id 515 sent at Tue Nov 04 2025 11:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T05:31:00.778Z] 📩 SMS sent to customer 919579279673 for booking id 516 sent at Tue Nov 04 2025 11:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T05:31:00.815Z] 📩 SMS sent to customer 919579279673 for booking id 517 sent at Tue Nov 04 2025 11:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T05:40:00.095Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T05:40:00.099Z] ✅ Server running at http://localhost:5001
+[2025-11-04T05:49:37.605Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T05:49:37.609Z] ✅ Server running at http://localhost:5001
+[2025-11-04T05:49:55.040Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-04T05:49:55.117Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T05:49:58.538Z] 🚀 Route hit: GET /categories/list
+[2025-11-04T05:49:58.542Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-04T05:49:58.547Z] 🚀 Route hit: GET /pets/list
+[2025-11-04T05:49:58.549Z] 🚀 Route hit: GET /addresses/list
+[2025-11-04T05:49:58.617Z] 🚀 Route hit: GET //uploads/services/aecf4c41f7b491c7f4998020061f30ddb438f894.jpg
+[2025-11-04T05:49:58.622Z] 🚀 Route hit: GET //uploads/services/06835727bcb89a255a7915f647aa0e2d4f76d7f7.jpg
+[2025-11-04T05:49:58.625Z] 🚀 Route hit: GET //uploads/services/79a481c89836b50185764abaca6d556264dc0afd.jpg
+[2025-11-04T05:49:58.626Z] 🚀 Route hit: GET //uploads/services/9ab7b14c006121f72aeb1976dd42ba537c59b398.jpg
+[2025-11-04T05:49:58.627Z] 🚀 Route hit: GET //uploads/services/648a495c529de0b2e15ca0b6032c4aab81b64151.jpg
+[2025-11-04T05:49:58.628Z] 🚀 Route hit: GET //uploads/services/e65ecc5f817f5542fc3e2eb65b21480824364abe.jpg
+[2025-11-04T05:50:04.012Z] 🚀 Route hit: GET //uploads/petPics/images%20(1)_1761573715110.png
+[2025-11-04T05:50:07.846Z] 🚀 Route hit: GET /slots/get_slots_with_booking_status?date=2025-11-04
+[2025-11-04T05:50:12.608Z] 🚀 Route hit: POST /bookings/new
+[2025-11-04T05:50:12.608Z] 📦 Request Body: {
+  "pet_id": 74,
+  "service_id": 1,
+  "service_pricing_id": 2,
+  "address_id": 57,
+  "appointment_time_slots": [
+    "2025-11-04T10:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 1649,
+  "tax": 296.82,
+  "total": 1945.82,
+  "notes": "",
+  "nature": "Friendly",
+  "health_conditions": "Senior dog",
+  "bookingServices": [
+    {
+      "service_pricing_id": 2,
+      "parent_service_id": null,
+      "amount": 850,
+      "tax": 153,
+      "total": 1003
+    },
+    {
+      "service_pricing_id": 21,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    }
+  ]
+}
+[2025-11-04T06:54:59.440Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T06:54:59.445Z] ✅ Server running at http://localhost:5001
+[2025-11-04T06:57:13.068Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T06:57:13.072Z] ✅ Server running at http://localhost:5001
+[2025-11-04T07:01:15.217Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T07:01:15.220Z] ✅ Server running at http://localhost:5001
+[2025-11-04T07:01:29.997Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-04T07:01:33.649Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-04T07:01:33.652Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T07:01:58.249Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-04T07:01:58.252Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T07:04:26.377Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T07:04:26.380Z] ✅ Server running at http://localhost:5001
+[2025-11-04T07:04:28.824Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T07:04:28.827Z] ✅ Server running at http://localhost:5001
+[2025-11-04T07:13:19.823Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-04T07:13:19.851Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T07:13:24.741Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-04T07:13:24.742Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T07:14:21.817Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-04T07:14:21.820Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T07:23:46.484Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T07:24:06.662Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-04T07:24:16.583Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-04T07:24:16.586Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T07:24:24.912Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-04T07:24:24.918Z] 🚀 Route hit: GET /categories/list
+[2025-11-04T07:24:24.920Z] 🚀 Route hit: GET /pets/list
+[2025-11-04T07:24:24.923Z] 🚀 Route hit: GET /addresses/list
+[2025-11-04T07:24:24.965Z] 🚀 Route hit: GET //uploads/services/aecf4c41f7b491c7f4998020061f30ddb438f894.jpg
+[2025-11-04T07:24:24.969Z] 🚀 Route hit: GET //uploads/services/06835727bcb89a255a7915f647aa0e2d4f76d7f7.jpg
+[2025-11-04T07:24:24.970Z] 🚀 Route hit: GET //uploads/services/79a481c89836b50185764abaca6d556264dc0afd.jpg
+[2025-11-04T07:24:24.972Z] 🚀 Route hit: GET //uploads/services/9ab7b14c006121f72aeb1976dd42ba537c59b398.jpg
+[2025-11-04T07:24:24.973Z] 🚀 Route hit: GET //uploads/services/648a495c529de0b2e15ca0b6032c4aab81b64151.jpg
+[2025-11-04T07:24:24.974Z] 🚀 Route hit: GET //uploads/services/e65ecc5f817f5542fc3e2eb65b21480824364abe.jpg
+[2025-11-04T07:25:06.938Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-04T07:25:06.941Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T07:26:42.161Z] 🚀 Route hit: GET /bookings/list?page=9&limit=10&upcomingPast=upcoming
+[2025-11-04T07:31:00.029Z] ⏰ Running daily reminder cron at Tue Nov 04 2025 13:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T07:31:00.347Z] 📩 SMS sent to customer 919579279673 for booking id 520 sent at Tue Nov 04 2025 13:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T07:35:34.830Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-04T07:35:34.835Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T07:35:42.356Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-04T07:35:42.360Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T07:39:40.544Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T07:39:40.549Z] ✅ Server running at http://localhost:5001
+[2025-11-04T07:39:45.731Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-04T07:39:45.745Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T07:44:38.084Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T07:44:38.087Z] ✅ Server running at http://localhost:5001
+[2025-11-04T07:44:50.799Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T07:44:50.802Z] ✅ Server running at http://localhost:5001
+[2025-11-04T07:51:17.992Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T07:51:17.995Z] ✅ Server running at http://localhost:5001
+[2025-11-04T07:51:20.764Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T07:51:21.222Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T07:51:21.226Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-04T07:53:20.667Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T07:53:20.670Z] ✅ Server running at http://localhost:5001
+[2025-11-04T07:53:27.357Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-04T07:53:27.372Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T07:55:26.326Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-04T07:55:26.331Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T07:56:39.045Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-04T07:56:39.049Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T08:05:59.115Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T08:05:59.119Z] ✅ Server running at http://localhost:5001
+[2025-11-04T08:06:02.596Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T08:06:03.159Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T08:06:03.163Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-04T08:06:37.209Z] 🚀 Route hit: GET /categories/list
+[2025-11-04T08:06:37.214Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-04T08:06:37.216Z] 🚀 Route hit: GET /pets/list
+[2025-11-04T08:06:37.218Z] 🚀 Route hit: GET /addresses/list
+[2025-11-04T08:06:37.257Z] 🚀 Route hit: GET //uploads/services/aecf4c41f7b491c7f4998020061f30ddb438f894.jpg
+[2025-11-04T08:06:37.259Z] 🚀 Route hit: GET //uploads/services/06835727bcb89a255a7915f647aa0e2d4f76d7f7.jpg
+[2025-11-04T08:06:37.266Z] 🚀 Route hit: GET //uploads/services/79a481c89836b50185764abaca6d556264dc0afd.jpg
+[2025-11-04T08:06:37.268Z] 🚀 Route hit: GET //uploads/services/9ab7b14c006121f72aeb1976dd42ba537c59b398.jpg
+[2025-11-04T08:06:37.270Z] 🚀 Route hit: GET //uploads/services/648a495c529de0b2e15ca0b6032c4aab81b64151.jpg
+[2025-11-04T08:06:37.272Z] 🚀 Route hit: GET //uploads/services/e65ecc5f817f5542fc3e2eb65b21480824364abe.jpg
+[2025-11-04T08:06:42.360Z] 🚀 Route hit: GET //uploads/services/aecf4c41f7b491c7f4998020061f30ddb438f894.jpg
+[2025-11-04T08:06:42.363Z] 🚀 Route hit: GET //uploads/services/06835727bcb89a255a7915f647aa0e2d4f76d7f7.jpg
+[2025-11-04T08:06:42.365Z] 🚀 Route hit: GET //uploads/services/79a481c89836b50185764abaca6d556264dc0afd.jpg
+[2025-11-04T08:06:42.367Z] 🚀 Route hit: GET //uploads/services/9ab7b14c006121f72aeb1976dd42ba537c59b398.jpg
+[2025-11-04T08:06:42.369Z] 🚀 Route hit: GET //uploads/services/648a495c529de0b2e15ca0b6032c4aab81b64151.jpg
+[2025-11-04T08:06:42.370Z] 🚀 Route hit: GET //uploads/services/e65ecc5f817f5542fc3e2eb65b21480824364abe.jpg
+[2025-11-04T08:12:17.513Z] 🚀 Route hit: GET /categories/list
+[2025-11-04T08:12:17.516Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-04T08:12:17.518Z] 🚀 Route hit: GET /pets/list
+[2025-11-04T08:12:17.520Z] 🚀 Route hit: GET /addresses/list
+[2025-11-04T08:12:33.557Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T08:12:34.659Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T08:12:34.664Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-04T08:12:34.667Z] 🚀 Route hit: GET /pets/list
+[2025-11-04T08:12:34.668Z] 🚀 Route hit: GET /categories/list
+[2025-11-04T08:12:34.669Z] 🚀 Route hit: GET /addresses/list
+[2025-11-04T08:12:34.837Z] 🚀 Route hit: GET //uploads/services/aecf4c41f7b491c7f4998020061f30ddb438f894.jpg
+[2025-11-04T08:12:34.838Z] 🚀 Route hit: GET //uploads/services/06835727bcb89a255a7915f647aa0e2d4f76d7f7.jpg
+[2025-11-04T08:12:34.840Z] 🚀 Route hit: GET //uploads/services/79a481c89836b50185764abaca6d556264dc0afd.jpg
+[2025-11-04T08:12:34.842Z] 🚀 Route hit: GET //uploads/services/9ab7b14c006121f72aeb1976dd42ba537c59b398.jpg
+[2025-11-04T08:12:34.843Z] 🚀 Route hit: GET //uploads/services/648a495c529de0b2e15ca0b6032c4aab81b64151.jpg
+[2025-11-04T08:12:34.844Z] 🚀 Route hit: GET //uploads/services/e65ecc5f817f5542fc3e2eb65b21480824364abe.jpg
+[2025-11-04T08:12:37.410Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-04T08:12:40.747Z] 🚀 Route hit: GET //uploads/services/aecf4c41f7b491c7f4998020061f30ddb438f894.jpg
+[2025-11-04T08:12:40.749Z] 🚀 Route hit: GET //uploads/services/06835727bcb89a255a7915f647aa0e2d4f76d7f7.jpg
+[2025-11-04T08:12:40.750Z] 🚀 Route hit: GET //uploads/services/79a481c89836b50185764abaca6d556264dc0afd.jpg
+[2025-11-04T08:12:40.751Z] 🚀 Route hit: GET //uploads/services/9ab7b14c006121f72aeb1976dd42ba537c59b398.jpg
+[2025-11-04T08:12:40.751Z] 🚀 Route hit: GET //uploads/services/648a495c529de0b2e15ca0b6032c4aab81b64151.jpg
+[2025-11-04T08:12:40.753Z] 🚀 Route hit: GET //uploads/services/e65ecc5f817f5542fc3e2eb65b21480824364abe.jpg
+[2025-11-04T08:12:46.334Z] 🚀 Route hit: GET //uploads/petPics/images%20(1)_1761573715110.png
+[2025-11-04T08:12:47.401Z] 🚀 Route hit: GET /slots/get_slots_with_booking_status?date=2025-11-04
+[2025-11-04T08:14:25.989Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T08:14:25.992Z] ✅ Server running at http://localhost:5001
+[2025-11-04T08:14:37.805Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-04T08:14:37.814Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T08:40:02.728Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T08:40:02.731Z] ✅ Server running at http://localhost:5001
+[2025-11-04T08:40:10.982Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-04T08:40:10.983Z] 📦 Request Body: {
+  "phone": "9579279673"
+}
+[2025-11-04T08:40:32.466Z] 🚀 Route hit: POST /auth/sms_verifyOTP
+[2025-11-04T08:40:32.467Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "otp": "582071"
+}
+[2025-11-04T08:40:32.762Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T08:41:19.088Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-04T08:43:41.544Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-04T08:43:41.547Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T08:48:25.938Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T08:48:26.198Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-04T08:48:26.199Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-04T12:11:09.112Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T12:11:09.116Z] ✅ Server running at http://localhost:5001
+[2025-11-04T12:12:13.187Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T12:12:13.190Z] ✅ Server running at http://localhost:5001
+[2025-11-04T12:12:14.369Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-04T12:12:14.370Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "user_type": "groomer"
+}
+[2025-11-04T12:17:49.295Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T12:17:49.299Z] ✅ Server running at http://localhost:5001
+[2025-11-04T12:19:08.214Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T12:19:08.218Z] ✅ Server running at http://localhost:5001
+[2025-11-04T12:19:09.819Z] 🚀 Route hit: POST /auth/login_admin
+[2025-11-04T12:19:09.819Z] 📦 Request Body: {
+  "user_id": "admin",
+  "password": "1!$bhaobhao@admin"
+}
+[2025-11-04T12:19:09.971Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-04T12:19:10.000Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-04T12:19:10.003Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-04T12:19:10.149Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-04T12:19:10.163Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-04T12:19:10.185Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-04T12:19:20.453Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-04T12:19:20.466Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-04T12:20:14.683Z] 🚀 Route hit: POST /groomers/save
+[2025-11-04T12:20:14.764Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-04T12:20:14.772Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-04T12:20:26.089Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-04T12:20:26.090Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "user_type": "groomer"
+}
+[2025-11-04T12:20:48.631Z] 🚀 Route hit: POST /auth/sms_verifyOTP
+[2025-11-04T12:20:48.632Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "otp": "925240",
+  "user_type": "groomer"
+}
+[2025-11-04T12:20:48.971Z] 🚀 Route hit: GET /analytics/dashboardCountersGroomer
+[2025-11-04T12:20:48.973Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-04T12:20:48.994Z] 🚀 Route hit: GET /analytics/dashboardCountersGroomer
+[2025-11-04T12:20:49.006Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-04T12:20:49.018Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-04T12:20:49.027Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-04T12:20:54.327Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=Scheduled
+[2025-11-04T12:20:55.445Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-04T12:20:56.545Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=Scheduled
+[2025-11-04T12:20:57.427Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=In+Progress
+[2025-11-04T12:20:58.361Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=Completed
+[2025-11-04T12:20:59.545Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=In+Progress
+[2025-11-04T12:21:00.378Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=Scheduled
+[2025-11-04T12:21:01.328Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-04T12:21:40.862Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=Scheduled
+[2025-11-04T12:21:41.911Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-04T12:26:10.849Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-04T12:26:10.854Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-04T12:26:10.858Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-04T12:26:10.921Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-04T12:26:10.925Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-04T12:26:10.946Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-04T12:31:00.039Z] ⏰ Running daily reminder cron at Tue Nov 04 2025 18:01:00 GMT+0530 (India Standard Time)
+[2025-11-04T12:50:45.169Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-04T12:50:45.201Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-04T12:50:45.212Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-04T12:50:45.315Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-04T12:50:45.318Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-04T12:50:45.333Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-04T13:06:46.137Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-04T13:06:46.146Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-04T13:06:46.148Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-04T13:06:46.197Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-04T13:06:46.200Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-04T13:06:46.214Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-04T13:07:58.078Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-04T13:07:58.082Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-04T13:07:58.083Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-04T13:07:58.116Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-04T13:07:58.122Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-04T13:07:58.134Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-04T13:08:05.409Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-04T13:08:10.273Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-04T13:08:10.277Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-04T13:08:10.280Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-04T13:08:10.322Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-04T13:08:10.327Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-04T13:08:10.340Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-04T13:15:56.127Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-04T13:15:56.133Z] ✅ Server running at http://localhost:5001
+[2025-11-04T13:16:06.378Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-04T13:16:06.388Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-04T13:16:06.394Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-04T13:16:06.397Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-04T13:16:06.412Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-04T13:16:06.431Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-04T13:16:08.035Z] 🚀 Route hit: POST /auth/login_admin
+[2025-11-04T13:16:08.035Z] 📦 Request Body: {
+  "user_id": "admin",
+  "password": "1!$bhaobhao@admin"
+}
+[2025-11-04T13:16:08.150Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-04T13:16:08.166Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-04T13:16:08.169Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-04T13:16:08.207Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-04T13:16:08.216Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-04T13:16:08.237Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-04T13:20:13.062Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-04T13:20:13.066Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-04T13:20:13.069Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-04T13:20:13.192Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-04T13:20:13.202Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-04T13:20:13.258Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-04T14:18:55.222Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-04T14:18:55.230Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-04T14:18:55.234Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-04T14:18:55.389Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-04T14:18:55.391Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-04T14:18:55.405Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-04T15:18:13.713Z] 🚀 Route hit: PUT /bookings/assignGroomer/520
+[2025-11-04T15:18:13.714Z] 📦 Request Body: {
+  "groomer_id": "31"
+}
+[2025-11-04T15:18:19.348Z] 🚀 Route hit: PUT /bookings/assignGroomer/520
+[2025-11-04T15:18:19.349Z] 📦 Request Body: {
+  "groomer_id": "31"
+}
+[2025-11-04T15:18:20.754Z] 🚀 Route hit: PUT /bookings/assignGroomer/520
+[2025-11-04T15:18:20.755Z] 📦 Request Body: {
+  "groomer_id": "29"
+}
+[2025-11-04T15:18:38.146Z] 🚀 Route hit: PUT /bookings/assignGroomer/520
+[2025-11-04T15:18:38.147Z] 📦 Request Body: {
+  "groomer_id": "31"
+}
+[2025-11-05T05:13:03.318Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-05T05:13:03.321Z] ✅ Server running at http://localhost:5001
+[2025-11-05T05:31:00.025Z] ⏰ Running daily reminder cron at Wed Nov 05 2025 11:01:00 GMT+0530 (India Standard Time)
+[2025-11-05T05:44:02.869Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-05T05:44:02.872Z] ✅ Server running at http://localhost:5001
+[2025-11-05T05:44:08.882Z] 🚀 Route hit: POST /auth/login_admin
+[2025-11-05T05:44:08.882Z] 📦 Request Body: {
+  "user_id": "admin",
+  "password": "1!$bhaobhao@admin"
+}
+[2025-11-05T05:44:09.003Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-05T05:44:09.016Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-05T05:44:09.019Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-05T05:44:09.061Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-05T05:44:09.063Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-05T05:44:09.086Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-05T05:47:01.910Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-05T05:47:01.911Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "user_type": "groomer"
+}
+[2025-11-05T05:47:11.690Z] 🚀 Route hit: POST /auth/sms_verifyOTP
+[2025-11-05T05:47:11.691Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "otp": "175119",
+  "user_type": "groomer"
+}
+[2025-11-05T05:47:18.537Z] 🚀 Route hit: POST /auth/sms_verifyOTP
+[2025-11-05T05:47:18.537Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "otp": "520417",
+  "user_type": "groomer"
+}
+[2025-11-05T05:47:18.729Z] 🚀 Route hit: GET /analytics/dashboardCountersGroomer
+[2025-11-05T05:47:18.737Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T05:47:18.742Z] 🚀 Route hit: GET /analytics/dashboardCountersGroomer
+[2025-11-05T05:47:18.768Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T05:47:18.781Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T05:47:18.791Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T05:49:52.644Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=Scheduled
+[2025-11-05T05:49:53.356Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=In+Progress
+[2025-11-05T05:49:54.003Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=Completed
+[2025-11-05T05:49:55.003Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T05:53:00.925Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-05T05:53:00.930Z] ✅ Server running at http://localhost:5001
+[2025-11-05T05:53:08.426Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T05:53:08.446Z] 🚀 Route hit: GET /analytics/dashboardCountersGroomer
+[2025-11-05T05:53:08.488Z] 🚀 Route hit: GET /analytics/dashboardCountersGroomer
+[2025-11-05T05:53:08.499Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T05:53:08.508Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T05:53:08.536Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T05:53:38.407Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-05T05:53:38.410Z] ✅ Server running at http://localhost:5001
+[2025-11-05T05:53:41.358Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T05:53:41.371Z] 🚀 Route hit: GET /analytics/dashboardCountersGroomer
+[2025-11-05T05:53:41.408Z] 🚀 Route hit: GET /analytics/dashboardCountersGroomer
+[2025-11-05T05:53:41.416Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T05:53:41.429Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T05:53:41.438Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T05:53:43.882Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=Scheduled
+[2025-11-05T05:53:44.918Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=In+Progress
+[2025-11-05T05:53:45.913Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=Scheduled
+[2025-11-05T05:53:46.933Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T05:53:51.685Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=Scheduled
+[2025-11-05T05:53:53.050Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T05:54:24.484Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T05:54:24.508Z] 🚀 Route hit: GET /analytics/dashboardCountersGroomer
+[2025-11-05T05:54:24.525Z] 🚀 Route hit: GET /analytics/dashboardCountersGroomer
+[2025-11-05T05:54:24.532Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T05:54:24.555Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T05:54:24.564Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T05:54:55.229Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-05T05:54:55.232Z] ✅ Server running at http://localhost:5001
+[2025-11-05T05:54:58.129Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T05:54:58.148Z] 🚀 Route hit: GET /analytics/dashboardCountersGroomer
+[2025-11-05T05:54:58.174Z] 🚀 Route hit: GET /analytics/dashboardCountersGroomer
+[2025-11-05T05:54:58.187Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T05:54:58.200Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T05:54:58.221Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T06:00:21.637Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-05T06:00:21.642Z] ✅ Server running at http://localhost:5001
+[2025-11-05T06:00:29.205Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T06:00:29.217Z] 🚀 Route hit: GET /analytics/dashboardCountersGroomer
+[2025-11-05T06:00:29.267Z] 🚀 Route hit: GET /analytics/dashboardCountersGroomer
+[2025-11-05T06:00:29.289Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T06:00:29.300Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T06:00:29.312Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T06:02:03.612Z] 🚀 Route hit: POST /auth/login_admin
+[2025-11-05T06:02:03.613Z] 📦 Request Body: {
+  "user_id": "admin",
+  "password": "1!$bhaobhao@admin"
+}
+[2025-11-05T06:02:03.737Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-05T06:02:03.740Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-05T06:02:03.744Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-05T06:02:03.768Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-05T06:02:03.770Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-05T06:02:03.790Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-05T06:03:07.177Z] 🚀 Route hit: GET /api/breeds/popular
+[2025-11-05T06:31:00.016Z] ⏰ Running daily reminder cron at Wed Nov 05 2025 12:01:00 GMT+0530 (India Standard Time)
+[2025-11-05T07:06:30.126Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-05T07:06:30.130Z] ✅ Server running at http://localhost:5001
+[2025-11-05T07:31:00.048Z] ⏰ Running daily reminder cron at Wed Nov 05 2025 13:01:00 GMT+0530 (India Standard Time)
+[2025-11-05T07:48:26.530Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-05T07:48:26.533Z] ✅ Server running at http://localhost:5001
+[2025-11-05T07:48:28.670Z] 🚀 Route hit: POST /auth/login_admin
+[2025-11-05T07:48:28.671Z] 📦 Request Body: {
+  "user_id": "admin",
+  "password": "1!$bhaobhao@admin"
+}
+[2025-11-05T07:48:28.794Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-05T07:48:28.807Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-05T07:48:28.809Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-05T07:48:28.850Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-05T07:48:28.853Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-05T07:48:28.869Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-05T07:49:04.025Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-05T07:49:04.029Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-05T07:49:04.032Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-05T07:49:04.059Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-05T07:49:04.063Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-05T07:49:04.076Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-05T07:49:29.176Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-05T07:49:29.179Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-05T07:49:29.182Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-05T07:49:29.209Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-05T07:49:29.214Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-05T07:49:29.227Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-05T07:49:45.810Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-05T07:49:45.810Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "user_type": "groomer"
+}
+[2025-11-05T07:50:03.576Z] 🚀 Route hit: POST /auth/sms_verifyOTP
+[2025-11-05T07:50:03.576Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "otp": "096970",
+  "user_type": "groomer"
+}
+[2025-11-05T07:50:58.242Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-05T07:50:58.247Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-05T07:50:58.251Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-05T07:50:58.280Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-05T07:50:58.286Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-05T07:50:58.299Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-05T07:51:00.718Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-05T07:51:00.722Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-05T07:51:00.725Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-05T07:51:00.730Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-05T07:51:00.732Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-05T07:51:00.758Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-05T07:51:25.731Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-05T07:51:25.736Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-05T07:51:25.738Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-05T07:51:25.754Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-05T07:51:25.761Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-05T07:51:25.775Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-05T07:51:41.506Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-05T07:51:41.509Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-05T07:51:41.510Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-05T07:51:41.525Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-05T07:51:41.531Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-05T07:51:41.546Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-05T07:51:53.279Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-05T07:51:53.279Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "user_type": "groomer"
+}
+[2025-11-05T07:52:03.577Z] 🚀 Route hit: POST /auth/sms_verifyOTP
+[2025-11-05T07:52:03.579Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "otp": "767692",
+  "user_type": "groomer"
+}
+[2025-11-05T07:52:04.141Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T07:52:04.145Z] 🚀 Route hit: GET /analytics/dashboardCountersGroomer
+[2025-11-05T07:52:04.162Z] 🚀 Route hit: GET /analytics/dashboardCountersGroomer
+[2025-11-05T07:52:04.166Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T07:52:04.178Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T07:52:04.191Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T08:31:00.013Z] ⏰ Running daily reminder cron at Wed Nov 05 2025 14:01:00 GMT+0530 (India Standard Time)
+[2025-11-05T08:54:54.331Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-05T08:54:54.334Z] ✅ Server running at http://localhost:5001
+[2025-11-05T08:54:55.796Z] 🚀 Route hit: GET /categories/list
+[2025-11-05T08:54:55.806Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-05T08:54:55.809Z] 🚀 Route hit: GET /pets/list
+[2025-11-05T08:54:55.811Z] 🚀 Route hit: GET /addresses/list
+[2025-11-05T08:54:55.819Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-05T08:54:58.679Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-05T08:54:58.679Z] 📦 Request Body: {
+  "phone": "9579279673"
+}
+[2025-11-05T08:55:12.096Z] 🚀 Route hit: POST /auth/sms_verifyOTP
+[2025-11-05T08:55:12.097Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "otp": "507131"
+}
+[2025-11-05T08:55:12.398Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-05T08:55:15.355Z] 🚀 Route hit: GET /categories/list
+[2025-11-05T08:55:15.360Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-05T08:55:15.365Z] 🚀 Route hit: GET /pets/list
+[2025-11-05T08:55:15.369Z] 🚀 Route hit: GET /addresses/list
+[2025-11-05T08:57:21.582Z] 🚀 Route hit: GET /pets/list
+[2025-11-05T09:00:02.156Z] 🚀 Route hit: GET /pets/list
+[2025-11-05T09:00:11.450Z] 🚀 Route hit: GET /slots/get_slots_with_booking_status?date=2025-11-05
+[2025-11-05T09:14:43.809Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-05T09:14:43.813Z] ✅ Server running at http://localhost:5001
+[2025-11-05T09:15:17.591Z] 🚀 Route hit: GET /api/breeds/popular
+[2025-11-05T09:17:21.796Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-05T10:05:57.229Z] 🚀 Route hit: GET /api/breeds/popular
+[2025-11-05T10:29:44.412Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-05T10:29:44.415Z] ✅ Server running at http://localhost:5001
+[2025-11-05T10:29:46.418Z] 🚀 Route hit: GET /addresses/list
+[2025-11-05T10:29:46.431Z] 🚀 Route hit: GET /pets/list
+[2025-11-05T10:29:46.433Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-05T10:29:51.130Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-05T10:29:51.130Z] 📦 Request Body: {
+  "phone": "9579279673"
+}
+[2025-11-05T10:29:59.890Z] 🚀 Route hit: POST /auth/sms_verifyOTP
+[2025-11-05T10:29:59.890Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "otp": "080825"
+}
+[2025-11-05T10:30:00.259Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-05T10:30:10.798Z] 🚀 Route hit: GET /addresses/list
+[2025-11-05T10:30:10.802Z] 🚀 Route hit: GET /pets/list
+[2025-11-05T10:30:40.058Z] 🚀 Route hit: POST /addresses/save
+[2025-11-05T10:30:40.059Z] 📦 Request Body: {
+  "flat_no": "A-101,2nd floor",
+  "apartment_name": "sunrise appartment",
+  "full_address": "godavari colony, lasur naka",
+  "pincode": "431109",
+  "label": "Home",
+  "isDefault": false,
+  "customLabel": "",
+  "location": "",
+  "IsNew": true
+}
+[2025-11-05T10:30:40.110Z] 🚀 Route hit: GET /addresses/list
+[2025-11-05T10:31:00.024Z] ⏰ Running daily reminder cron at Wed Nov 05 2025 16:01:00 GMT+0530 (India Standard Time)
+[2025-11-05T10:36:34.566Z] 🚀 Route hit: GET /addresses/list
+[2025-11-05T10:36:34.575Z] 🚀 Route hit: GET /pets/list
+[2025-11-05T10:36:34.577Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-05T11:31:00.016Z] ⏰ Running daily reminder cron at Wed Nov 05 2025 17:01:00 GMT+0530 (India Standard Time)
+[2025-11-05T11:54:20.607Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-05T11:54:20.610Z] ✅ Server running at http://localhost:5001
+[2025-11-05T11:54:33.512Z] 🚀 Route hit: POST /auth/login_admin
+[2025-11-05T11:54:33.513Z] 📦 Request Body: {
+  "user_id": "admin",
+  "password": "1!$bhaobhao@admin"
+}
+[2025-11-05T11:54:33.639Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-05T11:54:33.649Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-05T11:54:33.653Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-05T11:54:33.711Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-05T11:54:33.715Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-05T11:54:33.746Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-05T11:54:44.021Z] 🚀 Route hit: PUT /bookings/assignGroomer/519
+[2025-11-05T11:54:44.022Z] 📦 Request Body: {
+  "groomer_id": "29"
+}
+[2025-11-05T11:54:50.578Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-05T11:54:50.580Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-05T11:54:50.582Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-05T11:54:50.595Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-05T11:54:50.599Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-05T11:54:50.627Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-05T11:55:05.355Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=Completed&search=
+[2025-11-05T11:55:07.959Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=In%20Progress&search=
+[2025-11-05T11:55:10.337Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=Scheduled&search=
+[2025-11-05T11:55:41.045Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-05T11:55:41.051Z] 🚀 Route hit: GET /addresses/list
+[2025-11-05T11:55:41.055Z] 🚀 Route hit: GET /pets/list
+[2025-11-05T11:55:48.786Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-05T11:55:48.804Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-05T11:56:18.786Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-05T11:56:18.788Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "user_type": "groomer"
+}
+[2025-11-05T11:56:32.519Z] 🚀 Route hit: POST /auth/sms_verifyOTP
+[2025-11-05T11:56:32.520Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "otp": "766002",
+  "user_type": "groomer"
+}
+[2025-11-05T11:56:33.444Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T11:56:33.455Z] 🚀 Route hit: GET /analytics/dashboardCountersGroomer
+[2025-11-05T11:56:33.479Z] 🚀 Route hit: GET /analytics/dashboardCountersGroomer
+[2025-11-05T11:56:33.489Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T11:56:33.498Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T11:56:33.507Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T11:56:50.305Z] 🚀 Route hit: POST /transactions/new
+[2025-11-05T11:56:50.306Z] 📦 Request Body: {
+  "booking_id": 520,
+  "amount": 2651,
+  "method": "UPI",
+  "notes": "UPI payment"
+}
+[2025-11-05T11:56:50.342Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T12:05:30.495Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-05T12:05:30.498Z] ✅ Server running at http://localhost:5001
+[2025-11-05T12:05:34.399Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-05T12:05:34.414Z] 🚀 Route hit: GET /addresses/list
+[2025-11-05T12:05:34.416Z] 🚀 Route hit: GET /pets/list
+[2025-11-05T12:05:51.656Z] 🚀 Route hit: POST /auth/login_admin
+[2025-11-05T12:05:51.656Z] 📦 Request Body: {
+  "user_id": "admin",
+  "password": "1!$bhaobhao@admin"
+}
+[2025-11-05T12:05:51.776Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-05T12:05:51.778Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-05T12:05:51.780Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-05T12:05:51.809Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-05T12:05:51.814Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-05T12:05:51.830Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-05T12:06:15.481Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-05T12:06:15.485Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-05T12:06:15.489Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-05T12:06:15.505Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-05T12:06:15.512Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-05T12:06:15.541Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-05T12:08:31.046Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-05T12:08:31.047Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "user_type": "groomer"
+}
+[2025-11-05T12:08:39.500Z] 🚀 Route hit: POST /auth/sms_verifyOTP
+[2025-11-05T12:08:39.500Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "otp": "999741",
+  "user_type": "groomer"
+}
+[2025-11-05T12:08:39.738Z] 🚀 Route hit: GET /analytics/dashboardCountersGroomer
+[2025-11-05T12:08:39.740Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T12:08:39.760Z] 🚀 Route hit: GET /analytics/dashboardCountersGroomer
+[2025-11-05T12:08:39.784Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T12:08:39.796Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T12:08:39.809Z] 🚀 Route hit: GET /bookings/myBookings?page=1&limit=10&status=
+[2025-11-05T12:10:36.285Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-05T12:10:36.289Z] 🚀 Route hit: GET /addresses/list
+[2025-11-05T12:10:36.291Z] 🚀 Route hit: GET /pets/list
+[2025-11-05T12:10:39.679Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-05T12:12:55.383Z] 🚀 Route hit: GET /categories/list
+[2025-11-05T12:12:55.385Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-05T12:12:55.386Z] 🚀 Route hit: GET /pets/list
+[2025-11-05T12:15:09.085Z] 🚀 Route hit: GET /pets/list
+[2025-11-05T12:27:37.898Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-05T12:27:37.904Z] 🚀 Route hit: GET /addresses/list
+[2025-11-05T12:27:37.907Z] 🚀 Route hit: GET /pets/list
+[2025-11-05T12:27:37.910Z] 🚀 Route hit: GET /categories/list
+[2025-11-05T12:27:37.912Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-05T12:31:00.015Z] ⏰ Running daily reminder cron at Wed Nov 05 2025 18:01:00 GMT+0530 (India Standard Time)
+[2025-11-06T04:30:15.289Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-06T04:30:15.292Z] ✅ Server running at http://localhost:5001
+[2025-11-06T04:31:00.014Z] ⏰ Running daily reminder cron at Thu Nov 06 2025 10:01:00 GMT+0530 (India Standard Time)
+[2025-11-06T06:31:00.103Z] ⏰ Running daily reminder cron at Thu Nov 06 2025 12:01:00 GMT+0530 (India Standard Time)
+[2025-11-06T07:31:00.099Z] ⏰ Running daily reminder cron at Thu Nov 06 2025 13:01:00 GMT+0530 (India Standard Time)
+[2025-11-06T09:30:55.881Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-06T09:30:55.884Z] ✅ Server running at http://localhost:5001
+[2025-11-06T09:31:00.012Z] ⏰ Running daily reminder cron at Thu Nov 06 2025 15:01:00 GMT+0530 (India Standard Time)
+[2025-11-06T09:34:18.334Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-06T09:34:18.337Z] ✅ Server running at http://localhost:5001
+[2025-11-06T09:34:20.878Z] 🚀 Route hit: GET /addresses/list
+[2025-11-06T09:34:20.892Z] 🚀 Route hit: GET /pets/list
+[2025-11-06T09:34:20.895Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-06T09:34:23.642Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-06T09:34:23.643Z] 📦 Request Body: {
+  "phone": "9579279673"
+}
+[2025-11-06T09:34:58.991Z] 🚀 Route hit: POST /auth/sms_verifyOTP
+[2025-11-06T09:34:58.992Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "otp": "930834"
+}
+[2025-11-06T09:34:59.575Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-06T09:35:11.386Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-06T09:35:15.727Z] 🚀 Route hit: GET /pets/list
+[2025-11-06T09:35:15.739Z] 🚀 Route hit: GET /addresses/list
+[2025-11-06T09:35:15.754Z] 🚀 Route hit: GET //uploads/petPics/images%20(1)_1761573715110.png
+[2025-11-06T09:36:02.994Z] 🚀 Route hit: GET /addresses/list
+[2025-11-06T09:37:37.471Z] 🚀 Route hit: GET /addresses/list
+[2025-11-06T09:38:56.934Z] 🚀 Route hit: GET /addresses/list
+[2025-11-06T09:39:00.038Z] 🚀 Route hit: GET /addresses/list
+[2025-11-06T09:39:00.040Z] 🚀 Route hit: GET /pets/list
+[2025-11-06T09:39:00.044Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-06T09:39:00.178Z] 🚀 Route hit: GET //uploads/petPics/images%20(1)_1761573715110.png
+[2025-11-06T09:41:04.270Z] 🚀 Route hit: GET /pets/list
+[2025-11-06T09:41:31.613Z] 🚀 Route hit: POST /addresses/save
+[2025-11-06T09:41:31.613Z] 📦 Request Body: {
+  "flat_no": "1",
+  "apartment_name": "sunrise appartment",
+  "full_address": "test",
+  "pincode": "431109",
+  "label": "Home",
+  "isDefault": false,
+  "customLabel": "",
+  "location": "",
+  "IsNew": true
+}
+[2025-11-06T09:41:31.681Z] 🚀 Route hit: GET /addresses/list
+[2025-11-06T09:48:51.913Z] 🚀 Route hit: GET /addresses/list
+[2025-11-06T09:49:10.020Z] 🚀 Route hit: GET /addresses/list
+[2025-11-06T09:52:08.391Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-06T09:52:08.441Z] 🚀 Route hit: GET /pets/list
+[2025-11-06T09:52:23.034Z] 🚀 Route hit: GET //uploads/petPics/images%20(1)_1761573715110.png
+[2025-11-06T09:52:43.728Z] 🚀 Route hit: POST /addresses/save
+[2025-11-06T09:52:43.729Z] 📦 Request Body: {
+  "flat_no": "101,Sawali Niwas",
+  "apartment_name": "sunrise appartment",
+  "full_address": "test",
+  "pincode": "431109",
+  "label": "Home",
+  "isDefault": false,
+  "location": "Gangapur, Maharashtra 431109, India",
+  "latitude": 19.69807065519462,
+  "longitude": 75.01035259629516,
+  "IsNew": true
+}
+[2025-11-06T09:52:43.784Z] 🚀 Route hit: GET /addresses/list
+[2025-11-06T09:58:19.453Z] 🚀 Route hit: GET /addresses/list
+[2025-11-06T09:58:19.489Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-06T09:58:19.492Z] 🚀 Route hit: GET /pets/list
+[2025-11-06T10:00:54.570Z] 🚀 Route hit: GET /pets/list
+[2025-11-06T10:04:42.158Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-06T10:04:42.211Z] 🚀 Route hit: GET /addresses/list
+[2025-11-06T10:04:42.213Z] 🚀 Route hit: GET /pets/list
+[2025-11-06T10:04:43.886Z] 🚀 Route hit: GET /addresses/list
+[2025-11-06T10:04:43.888Z] 🚀 Route hit: GET /pets/list
+[2025-11-06T10:04:43.890Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-06T10:04:43.981Z] 🚀 Route hit: GET //uploads/petPics/images%20(1)_1761573715110.png
+[2025-11-06T10:05:40.865Z] 🚀 Route hit: GET /addresses/list
+[2025-11-06T10:05:40.867Z] 🚀 Route hit: GET /pets/list
+[2025-11-06T10:05:40.868Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-06T10:05:40.959Z] 🚀 Route hit: GET //uploads/petPics/images%20(1)_1761573715110.png
+[2025-11-06T10:05:43.147Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-06T10:05:49.684Z] 🚀 Route hit: GET /addresses/list
+[2025-11-06T10:05:49.687Z] 🚀 Route hit: GET /pets/list
+[2025-11-06T10:05:49.714Z] 🚀 Route hit: GET //uploads/petPics/images%20(1)_1761573715110.png
+[2025-11-06T10:09:35.048Z] 🚀 Route hit: GET /pets/list
+[2025-11-06T10:09:36.750Z] 🚀 Route hit: GET /addresses/list
+[2025-11-06T10:09:36.754Z] 🚀 Route hit: GET /pets/list
+[2025-11-06T10:09:36.757Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-06T10:09:36.780Z] 🚀 Route hit: GET //uploads/petPics/images%20(1)_1761573715110.png
+[2025-11-06T10:10:07.842Z] 🚀 Route hit: GET /addresses/list
+[2025-11-06T10:10:07.845Z] 🚀 Route hit: GET /pets/list
+[2025-11-06T10:10:07.846Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-06T10:10:07.931Z] 🚀 Route hit: GET //uploads/petPics/images%20(1)_1761573715110.png
+[2025-11-06T10:10:29.355Z] 🚀 Route hit: GET /addresses/list
+[2025-11-06T10:10:29.357Z] 🚀 Route hit: GET /pets/list
+[2025-11-06T10:10:29.358Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-06T10:10:29.397Z] 🚀 Route hit: GET //uploads/petPics/images%20(1)_1761573715110.png
+[2025-11-06T10:11:22.652Z] 🚀 Route hit: GET //uploads/petPics/images%20(1)_1761573715110.png
+[2025-11-06T10:12:51.887Z] 🚀 Route hit: GET /pets/list
+[2025-11-06T10:14:35.191Z] 🚀 Route hit: POST /addresses/save
+[2025-11-06T10:14:35.192Z] 📦 Request Body: {
+  "flat_no": "101,Sawali Niwas",
+  "apartment_name": "sunrise appartment",
+  "full_address": "test",
+  "pincode": "431109",
+  "label": "Home",
+  "isDefault": false,
+  "location": "Mumbai, Maharashtra, India",
+  "latitude": 18.95871088904585,
+  "longitude": 72.83215873068846,
+  "IsNew": true
+}
+[2025-11-06T10:14:35.258Z] 🚀 Route hit: GET /addresses/list
+[2025-11-06T10:26:40.344Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-06T10:26:40.363Z] 🚀 Route hit: GET /addresses/list
+[2025-11-06T10:26:40.364Z] 🚀 Route hit: GET /pets/list
+[2025-11-06T10:30:56.274Z] 🚀 Route hit: GET /pets/list
+[2025-11-06T10:30:58.806Z] 🚀 Route hit: GET /addresses/list
+[2025-11-06T10:30:58.809Z] 🚀 Route hit: GET /pets/list
+[2025-11-06T10:30:58.811Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-06T10:30:58.901Z] 🚀 Route hit: GET //uploads/petPics/images%20(1)_1761573715110.png
+[2025-11-06T10:31:00.013Z] ⏰ Running daily reminder cron at Thu Nov 06 2025 16:01:00 GMT+0530 (India Standard Time)
+[2025-11-06T10:31:48.857Z] 🚀 Route hit: POST /addresses/save
+[2025-11-06T10:31:48.858Z] 📦 Request Body: {
+  "flat_no": "101,Sawali Niwas",
+  "apartment_name": "sunrise appartment",
+  "full_address": "Gangapur",
+  "pincode": "431109",
+  "label": "Home",
+  "isDefault": false,
+  "customLabel": "",
+  "location": "Gangapur, Maharashtra 431109, India",
+  "latitude": 19.701406295203444,
+  "longitude": 75.00881386488591,
+  "IsNew": true
+}
+[2025-11-06T10:31:48.897Z] 🚀 Route hit: GET /addresses/list
+[2025-11-06T10:33:29.091Z] 🚀 Route hit: GET //uploads/petPics/images%20(1)_1761573715110.png
+[2025-11-06T10:33:29.101Z] 🚀 Route hit: GET /pets/list
+[2025-11-06T10:38:50.438Z] 🚀 Route hit: GET /addresses/list
+[2025-11-06T10:38:50.443Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-06T10:38:50.444Z] 🚀 Route hit: GET /pets/list
+[2025-11-06T10:39:01.939Z] 🚀 Route hit: GET /addresses/list
+[2025-11-06T10:39:01.940Z] 🚀 Route hit: GET /pets/list
+[2025-11-06T10:39:01.941Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-06T10:39:02.020Z] 🚀 Route hit: GET //uploads/petPics/images%20(1)_1761573715110.png
+[2025-11-06T10:41:17.890Z] 🚀 Route hit: GET /pets/list
+[2025-11-06T10:44:18.287Z] 🚀 Route hit: GET /addresses/list
+[2025-11-06T10:44:18.307Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-06T10:44:18.309Z] 🚀 Route hit: GET /pets/list
+[2025-11-06T10:46:47.146Z] 🚀 Route hit: GET /pets/list
+[2025-11-06T10:50:10.049Z] 🚀 Route hit: GET /addresses/list
+[2025-11-06T10:50:10.069Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-06T10:50:10.072Z] 🚀 Route hit: GET /pets/list
+[2025-11-06T15:46:16.197Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-06T15:46:16.201Z] ✅ Server running at http://localhost:5001
+[2025-11-07T06:30:30.758Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-07T06:30:30.762Z] ✅ Server running at http://localhost:5001
+[2025-11-07T06:31:00.022Z] ⏰ Running daily reminder cron at Fri Nov 07 2025 12:01:00 GMT+0530 (India Standard Time)
+[2025-11-07T06:35:59.858Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-07T06:35:59.861Z] ✅ Server running at http://localhost:5001
+[2025-11-07T06:37:05.869Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-07T06:37:05.872Z] ✅ Server running at http://localhost:5001
+[2025-11-07T06:37:09.688Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-07T06:37:09.688Z] 📦 Request Body: {
+  "phone": "9579279673"
+}
+[2025-11-07T06:38:15.290Z] 🚀 Route hit: POST /auth/sms_verifyOTP
+[2025-11-07T06:38:15.291Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "otp": "935618"
+}
+[2025-11-07T06:38:15.762Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-07T06:38:19.120Z] 🚀 Route hit: GET /addresses/list
+[2025-11-07T06:38:19.125Z] 🚀 Route hit: GET /pets/list
+[2025-11-07T06:38:27.816Z] 🚀 Route hit: GET /categories/list
+[2025-11-07T06:38:27.820Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-07T06:38:36.435Z] 🚀 Route hit: GET /petBreeds/list
+[2025-11-07T06:38:36.438Z] 🚀 Route hit: GET /petTypes/list
+[2025-11-07T06:38:43.094Z] 🚀 Route hit: GET /slots/get_slots_with_booking_status?date=2025-11-07
+[2025-11-07T06:39:17.347Z] 🚀 Route hit: POST /pets/save
+[2025-11-07T06:39:17.407Z] 🚀 Route hit: GET /pets/list
+[2025-11-07T08:09:51.152Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-07T08:09:51.155Z] ✅ Server running at http://localhost:5001
+[2025-11-07T08:09:53.809Z] 🚀 Route hit: GET /categories/list
+[2025-11-07T08:09:53.820Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-07T08:09:53.823Z] 🚀 Route hit: GET /pets/list
+[2025-11-07T08:09:53.827Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-07T08:09:53.829Z] 🚀 Route hit: GET /addresses/list
+[2025-11-07T08:10:02.500Z] 🚀 Route hit: GET /petBreeds/list
+[2025-11-07T08:10:02.504Z] 🚀 Route hit: GET /petTypes/list
+[2025-11-07T08:11:18.555Z] 🚀 Route hit: POST /pets/save
+[2025-11-07T08:11:18.696Z] 🚀 Route hit: GET /pets/list
+[2025-11-07T08:14:19.778Z] 🚀 Route hit: GET /pets/list
+[2025-11-07T08:16:17.257Z] 🚀 Route hit: GET /categories/list
+[2025-11-07T08:16:17.266Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-07T08:16:17.276Z] 🚀 Route hit: GET /addresses/list
+[2025-11-07T08:16:21.153Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-07T08:16:21.160Z] 🚀 Route hit: GET /pets/list
+[2025-11-07T08:16:22.666Z] 🚀 Route hit: GET /categories/list
+[2025-11-07T08:16:22.670Z] 🚀 Route hit: GET /pets/list
+[2025-11-07T08:16:22.671Z] 🚀 Route hit: GET /addresses/list
+[2025-11-07T08:16:22.673Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-07T08:16:22.690Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-07T08:16:30.116Z] 🚀 Route hit: GET /petTypes/list
+[2025-11-07T08:16:30.119Z] 🚀 Route hit: GET /petBreeds/list
+[2025-11-07T08:16:46.931Z] 🚀 Route hit: POST /pets/save
+[2025-11-07T08:16:46.977Z] 🚀 Route hit: GET /pets/list
+[2025-11-07T08:16:51.776Z] 🚀 Route hit: GET /slots/get_slots_with_booking_status?date=2025-11-07
+[2025-11-07T08:17:22.408Z] 🚀 Route hit: POST /bookings/new
+[2025-11-07T08:17:22.409Z] 📦 Request Body: {
+  "pet_id": 78,
+  "service_id": 1,
+  "service_pricing_id": 2,
+  "address_id": 62,
+  "appointment_time_slots": [
+    "2025-11-07T08:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 1649,
+  "tax": 296.82,
+  "total": 1945.82,
+  "notes": "",
+  "nature": "Friendly",
+  "health_conditions": "Senior dog",
+  "bookingServices": [
+    {
+      "service_pricing_id": 2,
+      "parent_service_id": null,
+      "amount": 850,
+      "tax": 153,
+      "total": 1003
+    },
+    {
+      "service_pricing_id": 25,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    }
+  ]
+}
+[2025-11-07T12:40:51.456Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-07T12:40:51.460Z] ✅ Server running at http://localhost:5001
+[2025-11-07T12:56:37.749Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-07T12:56:37.753Z] ✅ Server running at http://localhost:5001
+[2025-11-07T12:57:28.964Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-07T12:57:28.967Z] ✅ Server running at http://localhost:5001
+[2025-11-07T12:57:31.587Z] 🚀 Route hit: GET /categories/list
+[2025-11-07T12:57:31.597Z] 🚀 Route hit: GET /addresses/list
+[2025-11-07T12:57:31.599Z] 🚀 Route hit: GET /pets/list
+[2025-11-07T12:57:31.601Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-07T12:57:31.691Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-07T12:59:17.553Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-07T13:00:33.384Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-07T13:01:19.255Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-07T13:01:58.426Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-07T13:02:00.148Z] 🚀 Route hit: GET /categories/list
+[2025-11-07T13:02:00.150Z] 🚀 Route hit: GET /pets/list
+[2025-11-07T13:02:00.151Z] 🚀 Route hit: GET /addresses/list
+[2025-11-07T13:02:00.153Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-07T13:02:00.228Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-07T13:02:09.734Z] 🚀 Route hit: GET /slots/get_slots_with_booking_status?date=2025-11-07
+[2025-11-07T13:02:37.809Z] 🚀 Route hit: GET /slots/get_slots_with_booking_status?date=2025-11-08
+[2025-11-07T13:02:54.366Z] 🚀 Route hit: POST /bookings/new
+[2025-11-07T13:02:54.367Z] 📦 Request Body: {
+  "pet_id": 88,
+  "service_id": 1,
+  "service_pricing_id": 2,
+  "address_id": 63,
+  "appointment_time_slots": [
+    "2025-11-08T04:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 1649,
+  "tax": 296.82,
+  "total": 1945.82,
+  "notes": "",
+  "nature": "Friendly",
+  "health_conditions": "",
+  "bookingServices": [
+    {
+      "service_pricing_id": 2,
+      "parent_service_id": null,
+      "amount": 850,
+      "tax": 153,
+      "total": 1003
+    },
+    {
+      "service_pricing_id": 21,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    }
+  ]
+}
+[2025-11-07T13:40:04.006Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-07T13:40:04.009Z] ✅ Server running at http://localhost:5001
+[2025-11-07T13:40:19.149Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-07T13:40:19.149Z] 📦 Request Body: {
+  "phone": "9579279673"
+}
+[2025-11-07T13:40:28.954Z] 🚀 Route hit: POST /auth/sms_verifyOTP
+[2025-11-07T13:40:28.955Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "otp": "207636"
+}
+[2025-11-07T13:40:29.522Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-07T13:40:30.964Z] 🚀 Route hit: GET /categories/list
+[2025-11-07T13:40:30.970Z] 🚀 Route hit: GET /pets/list
+[2025-11-07T13:40:30.974Z] 🚀 Route hit: GET /addresses/list
+[2025-11-07T13:40:30.983Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-07T13:40:38.420Z] 🚀 Route hit: GET /slots/get_slots_with_booking_status?date=2025-11-07
+[2025-11-07T13:40:41.581Z] 🚀 Route hit: GET /slots/get_slots_with_booking_status?date=2025-11-08
+[2025-11-07T13:40:46.116Z] 🚀 Route hit: POST /bookings/new
+[2025-11-07T13:40:46.117Z] 📦 Request Body: {
+  "pet_id": 88,
+  "service_id": 1,
+  "service_pricing_id": 2,
+  "address_id": 63,
+  "appointment_time_slots": [
+    "2025-11-08T04:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 1649,
+  "tax": 296.82,
+  "total": 1945.82,
+  "notes": "",
+  "nature": "Friendly",
+  "health_conditions": "",
+  "bookingServices": [
+    {
+      "service_pricing_id": 2,
+      "parent_service_id": null,
+      "amount": 850,
+      "tax": 153,
+      "total": 1003
+    },
+    {
+      "service_pricing_id": 21,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    }
+  ]
+}
+[2025-11-07T15:56:35.049Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-07T15:56:35.052Z] ✅ Server running at http://localhost:5001
+[2025-11-07T15:56:59.281Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-07T15:56:59.282Z] 📦 Request Body: {
+  "phone": "9579279673"
+}
+[2025-11-07T15:57:36.063Z] 🚀 Route hit: POST /auth/sms_verifyOTP
+[2025-11-07T15:57:36.064Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "otp": "289530"
+}
+[2025-11-07T15:57:36.719Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-07T15:57:39.078Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-07T15:57:41.449Z] 🚀 Route hit: GET /pets/list
+[2025-11-07T15:57:41.450Z] 🚀 Route hit: GET /categories/list
+[2025-11-07T15:57:41.451Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-07T15:57:41.453Z] 🚀 Route hit: GET /addresses/list
+[2025-11-07T15:57:41.482Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-07T15:57:41.626Z] 🚀 Route hit: GET //uploads/services/aecf4c41f7b491c7f4998020061f30ddb438f894.jpg
+[2025-11-07T15:57:41.629Z] 🚀 Route hit: GET //uploads/services/06835727bcb89a255a7915f647aa0e2d4f76d7f7.jpg
+[2025-11-07T15:57:41.630Z] 🚀 Route hit: GET //uploads/services/79a481c89836b50185764abaca6d556264dc0afd.jpg
+[2025-11-07T15:57:41.631Z] 🚀 Route hit: GET //uploads/services/9ab7b14c006121f72aeb1976dd42ba537c59b398.jpg
+[2025-11-07T15:57:41.633Z] 🚀 Route hit: GET //uploads/services/648a495c529de0b2e15ca0b6032c4aab81b64151.jpg
+[2025-11-07T15:57:41.634Z] 🚀 Route hit: GET //uploads/services/e65ecc5f817f5542fc3e2eb65b21480824364abe.jpg
+[2025-11-07T15:57:55.048Z] 🚀 Route hit: GET /slots/get_slots_with_booking_status?date=2025-11-07
+[2025-11-07T15:57:57.115Z] 🚀 Route hit: GET /slots/get_slots_with_booking_status?date=2025-11-08
+[2025-11-07T15:58:04.184Z] 🚀 Route hit: POST /bookings/new
+[2025-11-07T15:58:04.184Z] 📦 Request Body: {
+  "pet_id": 84,
+  "service_id": 1,
+  "service_pricing_id": 2,
+  "address_id": 63,
+  "appointment_time_slots": [
+    "2025-11-08T04:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 1948,
+  "tax": 350.64,
+  "total": 2298.64,
+  "notes": "",
+  "nature": "Friendly",
+  "health_conditions": "",
+  "bookingServices": [
+    {
+      "service_pricing_id": 2,
+      "parent_service_id": null,
+      "amount": 850,
+      "tax": 153,
+      "total": 1003
+    },
+    {
+      "service_pricing_id": 21,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    },
+    {
+      "service_pricing_id": 22,
+      "parent_service_id": 1,
+      "amount": 299,
+      "tax": 53.82,
+      "total": 352.82
+    }
+  ]
+}
+[2025-11-10T04:08:08.710Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-10T04:08:08.713Z] ✅ Server running at http://localhost:5001
+[2025-11-10T04:31:00.059Z] ⏰ Running daily reminder cron at Mon Nov 10 2025 10:01:00 GMT+0530 (India Standard Time)
+[2025-11-10T05:31:00.024Z] ⏰ Running daily reminder cron at Mon Nov 10 2025 11:01:00 GMT+0530 (India Standard Time)
+[2025-11-10T06:31:00.021Z] ⏰ Running daily reminder cron at Mon Nov 10 2025 12:01:00 GMT+0530 (India Standard Time)
+[2025-11-10T06:43:20.480Z] 🚀 Route hit: GET /
+[2025-11-10T06:43:29.246Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-10T06:43:29.247Z] 📦 Request Body: {
+  "phone": "9579279673"
+}
+[2025-11-10T06:44:10.841Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-10T06:44:10.843Z] 📦 Request Body: {
+  "phone": "9579279673"
+}
+[2025-11-10T06:49:36.778Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-10T06:49:36.780Z] 📦 Request Body: {
+  "phone": "9579279673"
+}
+[2025-11-10T07:31:00.064Z] ⏰ Running daily reminder cron at Mon Nov 10 2025 13:01:00 GMT+0530 (India Standard Time)
+[2025-11-10T08:31:00.026Z] ⏰ Running daily reminder cron at Mon Nov 10 2025 14:01:00 GMT+0530 (India Standard Time)
+[2025-11-10T08:36:28.357Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-10T08:36:28.357Z] 📦 Request Body: {
+  "phone": "9579279673"
+}
+[2025-11-10T08:36:38.936Z] 🚀 Route hit: POST /auth/sms_verifyOTP
+[2025-11-10T08:36:38.936Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "otp": "510050"
+}
+[2025-11-10T08:36:39.249Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-10T08:36:40.568Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-10T08:36:48.823Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=past
+[2025-11-10T08:36:57.345Z] 🚀 Route hit: GET /categories/list
+[2025-11-10T08:36:57.371Z] 🚀 Route hit: GET /pets/list
+[2025-11-10T08:36:57.389Z] 🚀 Route hit: GET /addresses/list
+[2025-11-10T08:36:57.392Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-10T08:36:57.540Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-10T08:36:57.752Z] 🚀 Route hit: GET //uploads/services/aecf4c41f7b491c7f4998020061f30ddb438f894.jpg
+[2025-11-10T08:36:57.755Z] 🚀 Route hit: GET //uploads/services/06835727bcb89a255a7915f647aa0e2d4f76d7f7.jpg
+[2025-11-10T08:36:57.756Z] 🚀 Route hit: GET //uploads/services/79a481c89836b50185764abaca6d556264dc0afd.jpg
+[2025-11-10T08:36:59.020Z] 🚀 Route hit: GET //uploads/services/9ab7b14c006121f72aeb1976dd42ba537c59b398.jpg
+[2025-11-10T08:36:59.070Z] 🚀 Route hit: GET //uploads/services/648a495c529de0b2e15ca0b6032c4aab81b64151.jpg
+[2025-11-10T08:36:59.139Z] 🚀 Route hit: GET //uploads/services/e65ecc5f817f5542fc3e2eb65b21480824364abe.jpg
+[2025-11-10T08:37:05.459Z] 🚀 Route hit: GET /slots/get_slots_with_booking_status?date=2025-11-10
+[2025-11-10T08:37:07.130Z] 🚀 Route hit: GET /slots/get_slots_with_booking_status?date=2025-11-11
+[2025-11-10T08:37:14.711Z] 🚀 Route hit: POST /bookings/new
+[2025-11-10T08:37:14.712Z] 📦 Request Body: {
+  "pet_id": 89,
+  "service_id": 1,
+  "service_pricing_id": 2,
+  "address_id": 63,
+  "appointment_time_slots": [
+    "2025-11-11T03:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 1649,
+  "tax": 296.82,
+  "total": 1945.82,
+  "notes": "",
+  "nature": "Jumpy",
+  "health_conditions": "Senior dog",
+  "bookingServices": [
+    {
+      "service_pricing_id": 2,
+      "parent_service_id": null,
+      "amount": 850,
+      "tax": 153,
+      "total": 1003
+    },
+    {
+      "service_pricing_id": 25,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    }
+  ]
+}
+[2025-11-10T08:42:22.855Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-10T08:42:22.858Z] ✅ Server running at http://localhost:5001
+[2025-11-10T08:42:24.160Z] 🚀 Route hit: GET /categories/list
+[2025-11-10T08:42:24.174Z] 🚀 Route hit: GET /pets/list
+[2025-11-10T08:42:24.178Z] 🚀 Route hit: GET /addresses/list
+[2025-11-10T08:42:24.182Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-10T08:42:24.338Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-10T08:42:24.469Z] 🚀 Route hit: GET //uploads/services/aecf4c41f7b491c7f4998020061f30ddb438f894.jpg
+[2025-11-10T08:42:24.474Z] 🚀 Route hit: GET //uploads/services/06835727bcb89a255a7915f647aa0e2d4f76d7f7.jpg
+[2025-11-10T08:42:24.484Z] 🚀 Route hit: GET //uploads/services/79a481c89836b50185764abaca6d556264dc0afd.jpg
+[2025-11-10T08:42:24.487Z] 🚀 Route hit: GET //uploads/services/9ab7b14c006121f72aeb1976dd42ba537c59b398.jpg
+[2025-11-10T08:42:24.492Z] 🚀 Route hit: GET //uploads/services/648a495c529de0b2e15ca0b6032c4aab81b64151.jpg
+[2025-11-10T08:42:24.494Z] 🚀 Route hit: GET //uploads/services/e65ecc5f817f5542fc3e2eb65b21480824364abe.jpg
+[2025-11-10T08:48:55.955Z] 🚀 Route hit: GET /categories/list
+[2025-11-10T08:48:55.969Z] 🚀 Route hit: GET /pets/list
+[2025-11-10T08:48:55.971Z] 🚀 Route hit: GET /addresses/list
+[2025-11-10T08:48:55.973Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-10T08:48:56.035Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-10T08:48:56.082Z] 🚀 Route hit: GET //uploads/services/aecf4c41f7b491c7f4998020061f30ddb438f894.jpg
+[2025-11-10T08:48:56.083Z] 🚀 Route hit: GET //uploads/services/06835727bcb89a255a7915f647aa0e2d4f76d7f7.jpg
+[2025-11-10T08:48:56.084Z] 🚀 Route hit: GET //uploads/services/79a481c89836b50185764abaca6d556264dc0afd.jpg
+[2025-11-10T08:48:56.085Z] 🚀 Route hit: GET //uploads/services/9ab7b14c006121f72aeb1976dd42ba537c59b398.jpg
+[2025-11-10T08:48:56.086Z] 🚀 Route hit: GET //uploads/services/648a495c529de0b2e15ca0b6032c4aab81b64151.jpg
+[2025-11-10T08:48:56.087Z] 🚀 Route hit: GET //uploads/services/e65ecc5f817f5542fc3e2eb65b21480824364abe.jpg
+[2025-11-10T09:03:04.433Z] 🚀 Route hit: POST /auth/login_admin
+[2025-11-10T09:03:04.433Z] 📦 Request Body: {
+  "user_id": "admin",
+  "password": "1!$bhaobhao@admin"
+}
+[2025-11-10T09:03:04.526Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-10T09:03:04.534Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-10T09:03:04.541Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-10T09:03:04.578Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-10T09:03:04.579Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-10T09:03:04.607Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-10T09:03:09.904Z] 🚀 Route hit: PUT /bookings/assignGroomer/536
+[2025-11-10T09:03:09.904Z] 📦 Request Body: {
+  "groomer_id": "31"
+}
+[2025-11-10T09:10:19.372Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-10T09:10:19.383Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-10T09:10:19.386Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-10T09:10:19.420Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-10T09:10:19.428Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-10T09:10:19.445Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-10T09:10:25.461Z] 🚀 Route hit: PUT /bookings/assignGroomer/422
+[2025-11-10T09:10:25.462Z] 📦 Request Body: {
+  "groomer_id": "31"
+}
+[2025-11-10T09:10:26.529Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-10T09:14:18.978Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-10T09:14:18.998Z] 🚀 Route hit: GET /categories/list
+[2025-11-10T09:14:19.000Z] 🚀 Route hit: GET /pets/list
+[2025-11-10T09:14:19.002Z] 🚀 Route hit: GET /addresses/list
+[2025-11-10T09:14:19.005Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-10T09:14:28.009Z] 🚀 Route hit: GET /slots/get_slots_with_booking_status?date=2025-11-10
+[2025-11-10T09:14:33.260Z] 🚀 Route hit: POST /bookings/new
+[2025-11-10T09:14:33.260Z] 📦 Request Body: {
+  "pet_id": 89,
+  "service_id": 1,
+  "service_pricing_id": 2,
+  "address_id": 63,
+  "appointment_time_slots": [
+    "2025-11-10T09:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 2448,
+  "tax": 440.64,
+  "total": 2888.64,
+  "notes": "",
+  "nature": "Jumpy",
+  "health_conditions": "Senior dog",
+  "bookingServices": [
+    {
+      "service_pricing_id": 2,
+      "parent_service_id": null,
+      "amount": 850,
+      "tax": 153,
+      "total": 1003
+    },
+    {
+      "service_pricing_id": 24,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    },
+    {
+      "service_pricing_id": 25,
+      "parent_service_id": 1,
+      "amount": 799,
+      "tax": 143.82,
+      "total": 942.8199999999999
+    }
+  ]
+}
+[2025-11-11T04:56:06.787Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-11T04:56:06.790Z] ✅ Server running at http://localhost:5001
+[2025-11-11T04:58:53.198Z] 🚀 Route hit: POST /auth/login_admin
+[2025-11-11T04:58:53.199Z] 📦 Request Body: {
+  "user_id": "admin",
+  "password": "1!$bhaobhao@admin"
+}
+[2025-11-11T04:58:53.297Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-11T04:58:53.310Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-11T04:58:53.314Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-11T04:58:53.374Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-11T04:58:53.379Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-11T04:58:53.402Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-11T04:58:56.035Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=Scheduled&search=
+[2025-11-11T05:00:20.613Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-11T05:00:34.973Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-11T05:00:42.635Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-11T05:00:42.637Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-11T05:00:42.641Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-11T05:00:42.659Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-11T05:00:42.667Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-11T05:00:42.684Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-11T05:08:58.851Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-11T05:09:06.697Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-11T05:09:06.698Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-11T05:09:18.669Z] 🚀 Route hit: DELETE /bookings/delete/541
+[2025-11-11T05:09:18.718Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-11T05:09:18.721Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-11T05:09:20.587Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-11T05:09:20.588Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-11T09:21:59.272Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-11T09:21:59.275Z] ✅ Server running at http://localhost:5001
+[2025-11-11T09:22:00.036Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-11T09:22:00.043Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-11T09:22:00.046Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-11T09:22:00.053Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-11T09:22:00.056Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-11T09:22:00.059Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-11T09:22:01.446Z] 🚀 Route hit: POST /auth/login_admin
+[2025-11-11T09:22:01.446Z] 📦 Request Body: {
+  "user_id": "admin",
+  "password": "1!$bhaobhao@admin"
+}
+[2025-11-11T09:22:01.567Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-11T09:22:01.581Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-11T09:22:01.583Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-11T09:22:01.622Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-11T09:22:01.627Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-11T09:22:01.641Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-11T09:22:05.377Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=Scheduled&search=
+[2025-11-11T09:22:06.848Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=In%20Progress&search=
+[2025-11-11T09:22:10.395Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=5&status=In%20Progress&search=
+[2025-11-11T09:22:12.180Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=5&status=All&search=
+[2025-11-11T09:23:27.577Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-11T09:23:27.580Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-11T09:23:27.581Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-11T09:23:27.610Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-11T09:23:27.623Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-11T09:23:27.691Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-11T09:23:39.731Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-11T09:23:39.734Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-11T09:23:39.736Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-11T09:23:39.762Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-11T09:23:39.766Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-11T09:23:39.779Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-11T09:23:40.256Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-11T09:23:40.258Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-11T09:23:40.259Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-11T09:23:40.264Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-11T09:23:40.266Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-11T09:23:40.276Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-11T09:31:00.041Z] ⏰ Running daily reminder cron at Tue Nov 11 2025 15:01:00 GMT+0530 (India Standard Time)
+[2025-11-11T11:31:00.020Z] ⏰ Running daily reminder cron at Tue Nov 11 2025 17:01:00 GMT+0530 (India Standard Time)
+[2025-11-12T03:31:00.011Z] ⏰ Running daily reminder cron at Wed Nov 12 2025 09:01:00 GMT+0530 (India Standard Time)
+[2025-11-12T04:06:51.804Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-12T04:06:51.807Z] ✅ Server running at http://localhost:5001
+[2025-11-12T04:07:17.782Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-12T04:07:17.785Z] ✅ Server running at http://localhost:5001
+[2025-11-12T04:13:14.173Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-12T04:13:14.178Z] ✅ Server running at http://localhost:5001
+[2025-11-12T04:13:59.925Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-12T04:13:59.926Z] 📦 Request Body: {
+  "phone": "8421822218",
+  "user_type": "groomer"
+}
+[2025-11-12T04:14:25.813Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-12T04:14:25.822Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-12T04:14:31.309Z] 🚀 Route hit: POST /auth/login_admin
+[2025-11-12T04:14:31.309Z] 📦 Request Body: {
+  "user_id": "admin",
+  "password": "1!$bhaobhao@admin"
+}
+[2025-11-12T04:14:31.440Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-12T04:14:31.445Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-12T04:14:31.449Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-12T04:14:31.466Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-12T04:14:31.473Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-12T04:14:31.499Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-12T04:14:36.039Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-12T04:14:36.046Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-12T04:14:49.542Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-12T04:14:49.561Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-12T04:14:57.721Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-12T04:14:57.728Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-12T04:15:03.530Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-12T04:15:03.535Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-12T04:15:22.389Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-12T04:15:54.776Z] 🚀 Route hit: POST /groomers/save
+[2025-11-12T04:16:00.090Z] 🚀 Route hit: POST /groomers/save
+[2025-11-12T04:16:00.125Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-12T04:16:00.131Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-12T04:16:05.158Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-12T04:16:05.158Z] 📦 Request Body: {
+  "phone": "8421822218",
+  "user_type": "groomer"
+}
+[2025-11-12T04:16:13.597Z] 🚀 Route hit: DELETE /groomers/delete/32
+[2025-11-12T04:16:13.612Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-12T04:16:29.921Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-12T04:16:29.922Z] 📦 Request Body: {
+  "phone": "8421822218",
+  "user_type": "groomer"
+}
+[2025-11-12T04:16:57.727Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-12T04:16:57.729Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "user_type": "groomer"
+}
+[2025-11-12T04:18:19.875Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-12T04:18:19.879Z] ✅ Server running at http://localhost:5001
+[2025-11-12T04:18:55.045Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-12T04:18:55.048Z] ✅ Server running at http://localhost:5001
+[2025-11-12T04:19:14.518Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-12T04:19:14.518Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "user_type": "groomer"
+}
+[2025-11-12T04:19:25.975Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-12T04:19:25.975Z] 📦 Request Body: {
+  "phone": "8421822218",
+  "user_type": "groomer"
+}
+[2025-11-12T04:19:45.525Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-12T04:19:45.529Z] ✅ Server running at http://localhost:5001
+[2025-11-12T04:24:31.441Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-12T04:24:31.444Z] ✅ Server running at http://localhost:5001
+[2025-11-12T04:24:41.535Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-12T04:24:41.536Z] 📦 Request Body: {
+  "phone": "8421822218",
+  "user_type": "groomer"
+}
+[2025-11-12T04:24:52.945Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-12T04:24:52.945Z] 📦 Request Body: {
+  "phone": "8421822218",
+  "user_type": "groomer"
+}
+[2025-11-12T04:26:48.148Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-12T04:26:48.151Z] ✅ Server running at http://localhost:5001
+[2025-11-12T04:26:59.848Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-12T04:26:59.848Z] 📦 Request Body: {
+  "phone": "8421822218",
+  "user_type": "groomer"
+}
+[2025-11-12T04:27:24.604Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-12T04:27:24.607Z] ✅ Server running at http://localhost:5001
+[2025-11-12T04:28:44.681Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-12T04:28:44.684Z] ✅ Server running at http://localhost:5001
+[2025-11-12T04:28:53.486Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-12T04:28:53.487Z] 📦 Request Body: {
+  "phone": "8421822218",
+  "user_type": "groomer"
+}
+[2025-11-12T05:16:56.104Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-12T05:16:56.108Z] ✅ Server running at http://localhost:5001
+[2025-11-12T05:17:17.256Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-12T05:17:17.256Z] 📦 Request Body: {
+  "phone": "8421822218",
+  "user_type": "groomer"
+}
+[2025-11-12T05:18:05.500Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-12T05:18:05.505Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-12T05:18:07.895Z] 🚀 Route hit: POST /auth/login_admin
+[2025-11-12T05:18:07.896Z] 📦 Request Body: {
+  "user_id": "admin",
+  "password": "1!$bhaobhao@admin"
+}
+[2025-11-12T05:18:08.034Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-12T05:18:08.037Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-12T05:18:08.040Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-12T05:18:08.104Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-12T05:18:08.107Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-12T05:18:08.125Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-12T05:18:10.719Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-12T05:18:10.726Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-12T05:18:13.546Z] 🚀 Route hit: DELETE /groomers/delete/31
+[2025-11-12T05:18:22.870Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-12T05:18:22.874Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-12T05:18:22.878Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-12T05:18:22.887Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-12T05:18:22.896Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-12T05:18:22.911Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-12T05:20:20.674Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-12T05:20:20.694Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-12T05:20:21.390Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-12T05:20:21.393Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-12T05:20:21.396Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-12T05:20:21.403Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-12T05:20:21.415Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-12T05:20:21.427Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-12T05:27:12.404Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-12T05:27:12.406Z] 📦 Request Body: {
+  "phone": "8421822218",
+  "user_type": "groomer"
+}
+[2025-11-12T05:31:00.031Z] ⏰ Running daily reminder cron at Wed Nov 12 2025 11:01:00 GMT+0530 (India Standard Time)
+[2025-11-12T05:40:35.941Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-12T05:40:35.943Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "user_type": "groomer"
+}
+[2025-11-12T05:45:28.567Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-12T05:45:28.572Z] ✅ Server running at http://localhost:5001
+[2025-11-12T05:53:11.494Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-12T05:53:11.497Z] ✅ Server running at http://localhost:5001
+[2025-11-12T05:53:35.317Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-12T05:53:35.320Z] ✅ Server running at http://localhost:5001
+[2025-11-12T05:54:22.378Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-12T05:54:22.379Z] 📦 Request Body: {
+  "phone": "8421822218",
+  "user_type": "groomer"
+}
+[2025-11-12T05:59:50.633Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-12T05:59:50.636Z] ✅ Server running at http://localhost:5001
+[2025-11-12T06:00:29.004Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-12T06:00:29.007Z] ✅ Server running at http://localhost:5001
+[2025-11-12T06:00:44.676Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-12T06:00:44.677Z] 📦 Request Body: {
+  "phone": "8421822218",
+  "user_type": "groomer"
+}
+[2025-11-12T06:03:22.939Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-12T06:03:22.952Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-12T06:03:25.541Z] 🚀 Route hit: POST /auth/login_admin
+[2025-11-12T06:03:25.542Z] 📦 Request Body: {
+  "user_id": "admin",
+  "password": "1!$bhaobhao@admin"
+}
+[2025-11-12T06:03:25.686Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-12T06:03:25.690Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-12T06:03:25.694Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-12T06:03:25.731Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-12T06:03:25.735Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-12T06:03:25.749Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-12T06:03:27.624Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-12T06:03:27.632Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-12T06:03:37.374Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-12T06:03:37.377Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-12T06:03:37.380Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-12T06:03:37.388Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-12T06:03:37.401Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-12T06:03:37.414Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-12T06:03:58.205Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-12T06:03:58.219Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-12T06:03:59.466Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=Expert&search=
+[2025-11-12T06:04:01.463Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=Intermediate&search=
+[2025-11-12T06:05:37.139Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-12T06:05:37.142Z] ✅ Server running at http://localhost:5001
+[2025-11-12T06:06:37.028Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-12T06:06:37.028Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "user_type": "groomer"
+}
+[2025-11-12T06:06:59.613Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-12T06:06:59.614Z] 📦 Request Body: {
+  "phone": "8421822218",
+  "user_type": "groomer"
+}
+[2025-11-12T06:07:22.479Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-12T06:07:22.491Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-12T06:07:24.142Z] 🚀 Route hit: POST /auth/login_admin
+[2025-11-12T06:07:24.143Z] 📦 Request Body: {
+  "user_id": "admin",
+  "password": "1!$bhaobhao@admin"
+}
+[2025-11-12T06:07:24.275Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-12T06:07:24.279Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-12T06:07:24.282Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-12T06:07:24.306Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-12T06:07:24.312Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-12T06:07:24.325Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-12T06:07:26.668Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-12T06:07:26.675Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-12T06:10:17.643Z] 🚀 Route hit: POST /auth/login_admin
+[2025-11-12T06:10:17.644Z] 📦 Request Body: {
+  "user_id": "admin",
+  "password": " 1!$bhaobhao@admin"
+}
+[2025-11-12T06:10:25.700Z] 🚀 Route hit: POST /auth/login_admin
+[2025-11-12T06:10:25.701Z] 📦 Request Body: {
+  "user_id": "admin",
+  "password": "1!$bhaobhao@admin"
+}
+[2025-11-12T06:10:25.829Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-12T06:10:25.831Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-12T06:10:25.833Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-12T06:10:45.642Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=&search=
+[2025-11-12T06:10:46.563Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=Expert&search=
+[2025-11-12T06:10:47.648Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=Advanced&search=
+[2025-11-12T06:10:48.279Z] 🚀 Route hit: GET /groomers/all?page=1&limit=10&level=Intermediate&search=
+[2025-11-12T06:11:22.123Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-12T06:11:22.125Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "user_type": "groomer"
+}
+[2025-11-12T06:17:56.807Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-12T06:17:56.809Z] 📦 Request Body: {
+  "phone": "8421822218",
+  "user_type": "groomer"
+}
+[2025-11-12T06:25:46.412Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-12T06:25:46.417Z] ✅ Server running at http://localhost:5001
+[2025-11-12T06:29:17.656Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-12T06:29:17.660Z] ✅ Server running at http://localhost:5001
+[2025-11-12T06:29:22.795Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-12T06:29:22.795Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "user_type": "groomer"
+}
+[2025-11-12T06:29:36.253Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-12T06:29:36.254Z] 📦 Request Body: {
+  "phone": "8421822218",
+  "user_type": "groomer"
+}
+[2025-11-12T06:31:00.024Z] ⏰ Running daily reminder cron at Wed Nov 12 2025 12:01:00 GMT+0530 (India Standard Time)
+[2025-11-12T06:31:44.711Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-12T06:31:44.714Z] ✅ Server running at http://localhost:5001
+[2025-11-12T06:37:02.059Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-12T06:37:02.062Z] ✅ Server running at http://localhost:5001
+[2025-11-12T06:37:21.123Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-12T06:37:21.126Z] ✅ Server running at http://localhost:5001
+[2025-11-12T06:37:31.976Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-12T06:37:31.976Z] 📦 Request Body: {
+  "phone": "8421822218",
+  "user_type": "groomer"
+}
+[2025-11-12T06:37:40.313Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-12T06:37:40.314Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "user_type": "groomer"
+}
+[2025-11-12T06:38:39.018Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-12T06:38:39.022Z] ✅ Server running at http://localhost:5001
+[2025-11-12T06:38:40.556Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-12T06:38:40.556Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "user_type": "groomer"
+}
+[2025-11-12T06:38:51.463Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-12T06:38:51.464Z] 📦 Request Body: {
+  "phone": "8421822218",
+  "user_type": "groomer"
+}
+[2025-11-12T06:39:06.451Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-12T06:39:06.454Z] ✅ Server running at http://localhost:5001
+[2025-11-12T06:39:15.022Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-12T06:39:15.022Z] 📦 Request Body: {
+  "phone": "8421822218",
+  "user_type": "groomer"
+}
+[2025-11-12T06:42:31.452Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-12T06:42:31.455Z] ✅ Server running at http://localhost:5001
+[2025-11-12T06:42:42.651Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-12T06:42:42.651Z] 📦 Request Body: {
+  "phone": "8421822218",
+  "user_type": "groomer"
+}
+[2025-11-12T06:42:49.098Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-12T06:42:49.098Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "user_type": "groomer"
+}
+[2025-11-12T06:43:15.748Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-12T06:43:15.751Z] ✅ Server running at http://localhost:5001
+[2025-11-12T06:43:25.048Z] 🚀 Route hit: POST /auth/mailgun_sendOTP
+[2025-11-12T06:43:25.048Z] 📦 Request Body: {
+  "email": "chaitanyapawar410@gmail.com",
+  "user_type": "groomer"
+}
+[2025-11-12T06:51:17.366Z] 🚀 Route hit: POST /auth/mailgun_sendOTP
+[2025-11-12T06:51:17.368Z] 📦 Request Body: {
+  "email": "chaitanyapawar410@gmail.com",
+  "user_type": "groomer"
+}
+[2025-11-12T11:51:04.664Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-12T11:51:04.667Z] ✅ Server running at http://localhost:5001
+[2025-11-12T11:51:20.626Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-12T11:51:20.626Z] 📦 Request Body: {
+  "phone": "9579279673"
+}
+[2025-11-12T11:51:31.474Z] 🚀 Route hit: POST /auth/sms_verifyOTP
+[2025-11-12T11:51:31.475Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "otp": "954722"
+}
+[2025-11-12T11:51:31.682Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-12T11:51:34.398Z] 🚀 Route hit: GET /categories/list
+[2025-11-12T11:51:34.402Z] 🚀 Route hit: GET /pets/list
+[2025-11-12T11:51:34.406Z] 🚀 Route hit: GET /addresses/list
+[2025-11-12T11:51:34.427Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-12T11:51:34.512Z] 🚀 Route hit: GET //uploads/services/aecf4c41f7b491c7f4998020061f30ddb438f894.jpg
+[2025-11-12T11:51:34.514Z] 🚀 Route hit: GET //uploads/services/06835727bcb89a255a7915f647aa0e2d4f76d7f7.jpg
+[2025-11-12T11:51:34.515Z] 🚀 Route hit: GET //uploads/services/79a481c89836b50185764abaca6d556264dc0afd.jpg
+[2025-11-12T11:51:34.516Z] 🚀 Route hit: GET //uploads/services/9ab7b14c006121f72aeb1976dd42ba537c59b398.jpg
+[2025-11-12T11:51:34.517Z] 🚀 Route hit: GET //uploads/services/648a495c529de0b2e15ca0b6032c4aab81b64151.jpg
+[2025-11-12T11:51:34.518Z] 🚀 Route hit: GET //uploads/services/e65ecc5f817f5542fc3e2eb65b21480824364abe.jpg
+[2025-11-12T11:52:01.088Z] 🚀 Route hit: GET /addresses/list
+[2025-11-12T11:52:01.089Z] 🚀 Route hit: GET /pets/list
+[2025-11-12T11:52:01.090Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-12T12:14:20.891Z] 🚀 Route hit: GET /addresses/list
+[2025-11-12T12:14:20.903Z] 🚀 Route hit: GET /pets/list
+[2025-11-12T12:14:20.910Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-12T12:31:00.099Z] ⏰ Running daily reminder cron at Wed Nov 12 2025 18:01:00 GMT+0530 (India Standard Time)
+[2025-11-12T12:34:21.535Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-12T12:34:21.588Z] 🚀 Route hit: GET /addresses/list
+[2025-11-12T12:34:21.591Z] 🚀 Route hit: GET /pets/list
+[2025-11-12T12:34:26.280Z] 🚀 Route hit: GET /addresses/list
+[2025-11-12T12:34:26.284Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-12T12:34:26.286Z] 🚀 Route hit: GET /pets/list
+[2025-11-12T12:57:31.046Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-12T12:57:33.933Z] 🚀 Route hit: GET /bookings/list?page=1&limit=10&upcomingPast=upcoming
+[2025-11-12T13:00:03.399Z] 🚀 Route hit: GET /addresses/list
+[2025-11-12T13:00:03.408Z] 🚀 Route hit: GET /pets/list
+[2025-11-12T13:00:03.410Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-12T13:31:00.013Z] ⏰ Running daily reminder cron at Wed Nov 12 2025 19:01:00 GMT+0530 (India Standard Time)
+[2025-11-27T16:46:39.018Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-27T16:46:39.021Z] ✅ Server running at http://localhost:5001
+[2025-11-27T16:47:03.326Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-27T16:47:03.326Z] 📦 Request Body: {
+  "phone": "9579279673"
+}
+[2025-11-27T16:47:18.405Z] 🚀 Route hit: POST /auth/sms_verifyOTP
+[2025-11-27T16:47:18.406Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "otp": "891044"
+}
+[2025-11-27T16:47:19.635Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-27T18:23:01.488Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-27T18:23:01.492Z] ✅ Server running at http://localhost:5001
+[2025-11-28T06:33:57.530Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-28T06:33:57.534Z] ✅ Server running at http://localhost:5001
+[2025-11-28T06:37:04.329Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-28T06:37:04.334Z] ✅ Server running at http://localhost:5001
+[2025-11-28T06:37:06.655Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-28T06:37:06.658Z] ✅ Server running at http://localhost:5001
+[2025-11-28T06:37:21.999Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-28T06:37:22.004Z] ✅ Server running at http://localhost:5001
+[2025-11-28T06:37:49.061Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-28T06:38:12.085Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-28T06:39:38.813Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-28T06:39:38.819Z] ✅ Server running at http://localhost:5001
+[2025-11-28T06:39:50.985Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-28T06:39:50.987Z] ✅ Server running at http://localhost:5001
+[2025-11-28T12:31:00.034Z] ⏰ Running daily reminder cron at Fri Nov 28 2025 12:31:00 GMT+0000 (Coordinated Universal Time)
+[2025-11-28T12:31:40.534Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-28T12:31:40.544Z] ✅ Server running at http://localhost:5001
+[2025-11-28T12:31:43.970Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-28T12:31:45.111Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-28T12:31:52.115Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-28T12:31:52.115Z] 📦 Request Body: {
+  "phone": "9579279673"
+}
+[2025-11-28T12:32:24.471Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-28T12:32:24.471Z] 📦 Request Body: {
+  "phone": "9579279673"
+}
+[2025-11-28T12:32:54.854Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-28T12:32:54.867Z] ✅ Server running at http://localhost:5001
+[2025-11-28T12:33:05.419Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-28T12:33:05.420Z] 📦 Request Body: {
+  "phone": "9822987513"
+}
+[2025-11-28T12:33:08.345Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-28T12:33:08.346Z] 📦 Request Body: {
+  "phone": "9579279673"
+}
+[2025-11-28T12:35:18.090Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-28T12:35:18.100Z] ✅ Server running at http://localhost:5001
+[2025-11-28T12:35:20.509Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-28T12:35:20.509Z] 📦 Request Body: {
+  "phone": "9767994735"
+}
+[2025-11-28T12:35:22.554Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-28T12:35:22.554Z] 📦 Request Body: {
+  "phone": "9767994735"
+}
+[2025-11-28T12:35:51.661Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-28T12:35:51.661Z] 📦 Request Body: {
+  "phone": "9579279673"
+}
+[2025-11-28T12:37:20.288Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-28T12:37:20.300Z] ✅ Server running at http://localhost:5001
+[2025-11-28T12:37:22.500Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-28T12:37:22.500Z] 📦 Request Body: {
+  "phone": "9579279673"
+}
+[2025-11-28T12:37:28.242Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-28T12:37:28.242Z] 📦 Request Body: {
+  "phone": "9579279673"
+}
+[2025-11-28T12:37:48.120Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-28T12:37:48.136Z] ✅ Server running at http://localhost:5001
+[2025-11-28T12:38:13.200Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-28T12:38:13.200Z] 📦 Request Body: {
+  "phone": "9579279673"
+}
+[2025-11-28T12:40:49.617Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-28T12:40:49.627Z] ✅ Server running at http://localhost:5001
+[2025-11-28T12:40:59.148Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-28T12:40:59.148Z] 📦 Request Body: {
+  "phone": "9579279673"
+}
+[2025-11-28T12:41:06.531Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-28T12:41:06.531Z] 📦 Request Body: {
+  "phone": "9579279673"
+}
+[2025-11-28T12:56:18.660Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-28T12:56:18.673Z] ✅ Server running at http://localhost:5001
+[2025-11-28T12:56:22.884Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-28T12:56:22.884Z] 📦 Request Body: {
+  "phone": "9579279673"
+}
+[2025-11-28T12:56:36.487Z] 🚀 Route hit: POST /auth/sms_verifyOTP
+[2025-11-28T12:56:36.487Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "otp": "869284"
+}
+[2025-11-28T12:56:44.660Z] 🚀 Route hit: POST /auth/sms_verifyOTP
+[2025-11-28T12:56:44.661Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "otp": "869294"
+}
+[2025-11-28T12:56:44.790Z] 🚀 Route hit: GET /uploads/profilePics/WhatsApp%20Image%202025-04-16%20at%2019.16.32_1761564831817.jpeg
+[2025-11-28T12:56:44.818Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-28T12:57:00.634Z] 🚀 Route hit: GET /uploads/profilePics/WhatsApp%20Image%202025-04-16%20at%2019.16.32_1761564831817.jpeg
+[2025-11-28T12:57:00.635Z] 🚀 Route hit: GET /addresses/list
+[2025-11-28T12:57:00.660Z] 🚀 Route hit: GET /pets/list
+[2025-11-28T12:57:04.166Z] 🚀 Route hit: GET /petBreeds/list
+[2025-11-28T12:57:04.168Z] 🚀 Route hit: GET /petTypes/list
+[2025-11-28T12:57:04.171Z] 🚀 Route hit: GET /api/breeds/popular
+[2025-11-28T13:14:28.718Z] 🚀 Route hit: GET /pdown
+[2025-11-28T13:20:28.313Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-11-28T13:20:28.324Z] ✅ Server running at http://localhost:5001
+[2025-11-28T13:31:00.097Z] ⏰ Running daily reminder cron at Fri Nov 28 2025 13:31:00 GMT+0000 (Coordinated Universal Time)
+[2025-11-28T13:32:09.926Z] 🚀 Route hit: GET /
+[2025-11-28T13:43:14.344Z] 🚀 Route hit: GET /
+[2025-11-28T14:08:10.180Z] 🚀 Route hit: GET /
+[2025-11-28T14:08:24.923Z] 🚀 Route hit: GET /
+[2025-11-28T14:09:06.221Z] 🚀 Route hit: POST /auth/login_admin
+[2025-11-28T14:09:06.221Z] 📦 Request Body: {
+  "user_id": "admin",
+  "password": "1!$bhaobhao@admin"
+}
+[2025-11-28T14:09:06.406Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-28T14:09:06.409Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-28T14:09:06.425Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-28T14:09:40.269Z] 🚀 Route hit: POST /auth/login_admin
+[2025-11-28T14:09:40.270Z] 📦 Request Body: {
+  "user_id": "admin",
+  "password": "1!$bhaobhao@admin"
+}
+[2025-11-28T14:09:40.510Z] 🚀 Route hit: GET /bookings/allBookings?page=1&limit=10&status=All&search=
+[2025-11-28T14:09:40.516Z] 🚀 Route hit: GET /analytics/dashboardCounters
+[2025-11-28T14:09:40.519Z] 🚀 Route hit: GET /groomers/all?page=1&limit=100&level=&search=
+[2025-11-28T14:26:37.552Z] 🚀 Route hit: GET /
+[2025-11-28T14:39:00.023Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-28T14:39:00.023Z] 📦 Request Body: {
+  "phone": "9579279673"
+}
+[2025-11-28T14:39:13.380Z] 🚀 Route hit: POST /auth/sms_verifyOTP
+[2025-11-28T14:39:13.380Z] 📦 Request Body: {
+  "phone": "9579279673",
+  "otp": "053997"
+}
+[2025-11-28T14:39:13.520Z] 🚀 Route hit: GET /uploads/profilePics/WhatsApp%20Image%202025-04-16%20at%2019.16.32_1761564831817.jpeg
+[2025-11-28T14:39:13.531Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-28T14:40:11.177Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-11-28T14:40:11.177Z] 📦 Request Body: {
+  "phone": "9767994735"
+}
+[2025-11-28T14:40:37.222Z] 🚀 Route hit: POST /auth/sms_verifyOTP
+[2025-11-28T14:40:37.222Z] 📦 Request Body: {
+  "phone": "9767994735",
+  "otp": "034910"
+}
+[2025-11-28T14:40:37.546Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-11-28T14:40:39.283Z] 🚀 Route hit: GET /categories/list
+[2025-11-28T14:40:39.286Z] 🚀 Route hit: GET /pets/list
+[2025-11-28T14:40:39.305Z] 🚀 Route hit: GET /addresses/list
+[2025-11-28T14:40:39.350Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-11-28T14:40:39.524Z] 🚀 Route hit: GET //uploads/services/aecf4c41f7b491c7f4998020061f30ddb438f894.jpg
+[2025-11-28T14:40:39.525Z] 🚀 Route hit: GET //uploads/services/176bce771ee40e290fb9c7e1ea0a9f6e73f0880e.jpg
+[2025-11-28T14:40:39.526Z] 🚀 Route hit: GET //uploads/services/06835727bcb89a255a7915f647aa0e2d4f76d7f7.jpg
+[2025-11-28T14:40:51.912Z] 🚀 Route hit: GET /slots/get_slots_with_booking_status?date=2025-11-28
+[2025-11-28T14:40:55.266Z] 🚀 Route hit: GET /slots/get_slots_with_booking_status?date=2025-11-29
+[2025-11-28T14:41:23.871Z] 🚀 Route hit: POST /bookings/new
+[2025-11-28T14:41:23.872Z] 📦 Request Body: {
+  "pet_id": 63,
+  "service_id": 1,
+  "service_pricing_id": 1,
+  "address_id": 47,
+  "appointment_time_slots": [
+    "2025-11-29T09:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 2458,
+  "tax": 442.43999999999994,
+  "total": 2900.44,
+  "notes": "good",
+  "nature": "Good",
+  "health_conditions": "good",
+  "bookingServices": [
+    {
+      "service_pricing_id": 1,
+      "parent_service_id": null,
+      "amount": 1803,
+      "tax": 324.53999999999996,
+      "total": 2127.54
+    },
+    {
+      "service_pricing_id": 60,
+      "parent_service_id": 1,
+      "amount": 655,
+      "tax": 117.89999999999999,
+      "total": 772.9
+    }
+  ]
+}
+[2025-12-24T11:33:28.820Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-12-24T11:33:28.831Z] ✅ Server running at http://localhost:5001
+[2025-12-24T11:34:11.646Z] 🚀 Route hit: GET /health
+[2025-12-24T11:34:42.001Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-12-24T11:34:42.001Z] 📦 Request Body: {
+  "phone": "9881012767"
+}
+[2025-12-24T11:34:50.790Z] 🚀 Route hit: POST /auth/sms_verifyOTP
+[2025-12-24T11:34:50.790Z] 📦 Request Body: {
+  "phone": "9881012767",
+  "otp": "182570"
+}
+[2025-12-24T11:34:51.018Z] 🚀 Route hit: GET /categories/list
+[2025-12-24T11:34:51.023Z] 🚀 Route hit: GET /pets/list
+[2025-12-24T11:34:51.054Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-12-24T11:34:51.055Z] 🚀 Route hit: GET /addresses/list
+[2025-12-24T11:34:51.114Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-12-24T11:39:20.785Z] 🚀 Route hit: HEAD /api/customers
+[2025-12-24T13:49:11.403Z] 
+✅ Logging forced globally — nothing will be hidden
+
+[2025-12-24T13:49:11.413Z] ✅ Server running at http://localhost:5001
+[2025-12-24T15:43:57.002Z] 🚀 Route hit: GET /robots.txt
+[2025-12-24T15:43:59.486Z] 🚀 Route hit: GET /
+[2025-12-24T18:08:05.858Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-12-24T18:08:05.862Z] 📦 Request Body: {
+  "phone": "9881012767"
+}
+[2025-12-24T18:08:18.213Z] 🚀 Route hit: POST /auth/sms_verifyOTP
+[2025-12-24T18:08:18.213Z] 📦 Request Body: {
+  "phone": "9881012767",
+  "otp": "475424"
+}
+[2025-12-24T18:08:18.496Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-12-24T18:08:42.334Z] 🚀 Route hit: GET /categories/list
+[2025-12-24T18:08:42.338Z] 🚀 Route hit: GET /pets/list
+[2025-12-24T18:08:42.406Z] 🚀 Route hit: GET /addresses/list
+[2025-12-24T18:08:54.540Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-12-24T18:11:22.845Z] 🚀 Route hit: GET /pets/list
+[2025-12-24T18:13:22.421Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-12-24T18:18:25.744Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-12-24T18:18:25.788Z] 🚀 Route hit: GET /addresses/list
+[2025-12-24T18:18:25.798Z] 🚀 Route hit: GET /categories/list
+[2025-12-24T18:18:25.806Z] 🚀 Route hit: GET /pets/list
+[2025-12-24T18:18:25.808Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-12-24T18:18:40.219Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-12-24T18:18:40.219Z] 📦 Request Body: {
+  "phone": "9881012767"
+}
+[2025-12-24T18:18:53.586Z] 🚀 Route hit: POST /auth/sms_verifyOTP
+[2025-12-24T18:18:53.586Z] 📦 Request Body: {
+  "phone": "9881012767",
+  "otp": "184794"
+}
+[2025-12-24T18:18:53.794Z] 🚀 Route hit: GET /categories/list
+[2025-12-24T18:18:53.798Z] 🚀 Route hit: GET /pets/list
+[2025-12-24T18:18:53.856Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-12-24T18:18:53.866Z] 🚀 Route hit: GET /addresses/list
+[2025-12-24T18:18:53.917Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-12-24T18:24:42.627Z] 🚀 Route hit: GET /categories/list
+[2025-12-24T18:24:42.666Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-12-24T18:24:42.667Z] 🚀 Route hit: GET /addresses/list
+[2025-12-24T18:24:42.692Z] 🚀 Route hit: GET /pets/list
+[2025-12-24T18:24:42.714Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-12-24T18:27:03.448Z] 🚀 Route hit: GET /pets/list
+[2025-12-24T18:43:44.396Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-12-24T18:43:44.396Z] 📦 Request Body: {
+  "phone": "9767994735"
+}
+[2025-12-24T18:43:58.641Z] 🚀 Route hit: POST /auth/sms_verifyOTP
+[2025-12-24T18:43:58.641Z] 📦 Request Body: {
+  "phone": "9767994735",
+  "otp": "703417"
+}
+[2025-12-24T18:44:03.676Z] 🚀 Route hit: GET /categories/list
+[2025-12-24T18:44:04.042Z] 🚀 Route hit: GET /pets/list
+[2025-12-24T18:44:04.152Z] 🚀 Route hit: GET /addresses/list
+[2025-12-24T18:44:04.253Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-12-24T18:44:04.473Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-12-25T00:17:32.456Z] 🚀 Route hit: GET /
+[2025-12-25T01:31:00.064Z] ⏰ Running daily reminder cron at Thu Dec 25 2025 01:31:00 GMT+0000 (Coordinated Universal Time)
+[2025-12-25T02:04:25.181Z] 🚀 Route hit: GET /
+[2025-12-25T02:05:57.835Z] 🚀 Route hit: GET /
+[2025-12-25T02:31:00.052Z] ⏰ Running daily reminder cron at Thu Dec 25 2025 02:31:00 GMT+0000 (Coordinated Universal Time)
+[2025-12-25T02:43:37.195Z] 🚀 Route hit: GET /
+[2025-12-25T02:43:39.411Z] 🚀 Route hit: GET /favicon.ico
+[2025-12-25T03:31:00.191Z] ⏰ Running daily reminder cron at Thu Dec 25 2025 03:31:00 GMT+0000 (Coordinated Universal Time)
+[2025-12-25T04:07:50.567Z] 🚀 Route hit: GET /
+[2025-12-25T04:31:00.063Z] ⏰ Running daily reminder cron at Thu Dec 25 2025 04:31:00 GMT+0000 (Coordinated Universal Time)
+[2025-12-25T05:31:00.061Z] ⏰ Running daily reminder cron at Thu Dec 25 2025 05:31:00 GMT+0000 (Coordinated Universal Time)
+[2025-12-25T06:31:00.053Z] ⏰ Running daily reminder cron at Thu Dec 25 2025 06:31:00 GMT+0000 (Coordinated Universal Time)
+[2025-12-25T06:49:04.463Z] 🚀 Route hit: POST /auth/sms_sendOTP
+[2025-12-25T06:49:04.463Z] 📦 Request Body: {
+  "phone": "9822987513"
+}
+[2025-12-25T06:49:15.501Z] 🚀 Route hit: POST /auth/sms_verifyOTP
+[2025-12-25T06:49:15.501Z] 📦 Request Body: {
+  "phone": "9822987513",
+  "otp": "722099"
+}
+[2025-12-25T06:49:15.699Z] 🚀 Route hit: GET /categories/list
+[2025-12-25T06:49:15.706Z] 🚀 Route hit: GET /pets/list
+[2025-12-25T06:49:15.737Z] 🚀 Route hit: GET /addresses/list
+[2025-12-25T06:49:15.746Z] 🚀 Route hit: GET /bookings/upcoming_bookings
+[2025-12-25T06:49:15.775Z] 🚀 Route hit: GET /subCategories/listWithServices/1
+[2025-12-25T06:49:28.866Z] 🚀 Route hit: GET /slots/get_slots_with_booking_status?date=2025-12-25
+[2025-12-25T06:49:33.896Z] 🚀 Route hit: POST /bookings/new
+[2025-12-25T06:49:33.896Z] 📦 Request Body: {
+  "pet_id": 74,
+  "service_id": 1,
+  "service_pricing_id": 1,
+  "address_id": 59,
+  "appointment_time_slots": [
+    "2025-12-25T08:30:00.000Z"
+  ],
+  "payment_method": "COD",
+  "amount": 2703,
+  "tax": 486.53999999999996,
+  "total": 3189.54,
+  "notes": "",
+  "nature": "",
+  "health_conditions": "",
+  "bookingServices": [
+    {
+      "service_pricing_id": 1,
+      "parent_service_id": null,
+      "amount": 1803,
+      "tax": 324.53999999999996,
+      "total": 2127.54
+    },
+    {
+      "service_pricing_id": 66,
+      "parent_service_id": 1,
+      "amount": 245,
+      "tax": 44.1,
+      "total": 289.1
+    },
+    {
+      "service_pricing_id": 69,
+      "parent_service_id": 1,
+      "amount": 655,
+      "tax": 117.89999999999999,
+      "total": 772.9
+    }
+  ]
+}

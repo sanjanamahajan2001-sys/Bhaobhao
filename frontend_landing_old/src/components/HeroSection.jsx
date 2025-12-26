@@ -1,0 +1,104 @@
+import React from 'react';
+
+const HeroSection = () => {
+  return (
+    <section className="hero-section">
+      {/* Paw Decorations */}
+      <svg className="paw-decoration paw-1" viewBox="0 0 100 100" fill="#C4A77D">
+        <ellipse cx="50" cy="65" rx="25" ry="20" />
+        <circle cx="25" cy="35" r="12" />
+        <circle cx="50" cy="25" r="12" />
+        <circle cx="75" cy="35" r="12" />
+        <circle cx="35" cy="50" r="10" />
+        <circle cx="65" cy="50" r="10" />
+      </svg>
+      <svg className="paw-decoration paw-2" viewBox="0 0 100 100" fill="#C4A77D">
+        <ellipse cx="50" cy="65" rx="25" ry="20" />
+        <circle cx="25" cy="35" r="12" />
+        <circle cx="50" cy="25" r="12" />
+        <circle cx="75" cy="35" r="12" />
+        <circle cx="35" cy="50" r="10" />
+        <circle cx="65" cy="50" r="10" />
+      </svg>
+
+      <div className="container" style={{ position: 'relative', top: '50px' }}>
+        <div className="row align-items-center">
+          <div className="col-lg-6">
+            <div className="top-badge">
+              India's top rated pet grooming service
+            </div>
+
+            <h1 className="hero-title">In-home pet grooming experts you can trust</h1>
+
+            <p className="hero-subtitle">Step into a world where every grooming experience makes pets look and feel
+              their absolute best.</p>
+
+            <div className="hero-buttons">
+              <a href="https://app.bhaobhao.in/auth/login" className="btn-primary-custom">
+                Book a grooming service
+              </a>
+              <a href="#" className="btn-secondary-custom">
+                <i className="bi bi-play-circle"></i>
+                How it works
+              </a>
+            </div>
+
+            <div className="trusted-section">
+              <div className="customer-avatars">
+                <img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop&crop=face"
+                  alt="Customer" />
+                <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face"
+                  alt="Customer" />
+                <img src="https://images.unsplash.com/photo-1517841905240-472988babdf9?w=100&h=100&fit=crop&crop=face"
+                  alt="Customer" />
+                <img src="https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=100&h=100&fit=crop&crop=face"
+                  alt="Customer" />
+              </div>
+              <p className="trusted-text"><strong>Trusted by 2 Lakh+ customers</strong></p>
+            </div>
+          </div>
+
+          <div className="col-lg-6">
+            <div className="hero-image-container">
+              <img src="./img1.png" alt="Pet Grooming Expert" className="hero-main-image"
+                style={{ borderRadius: '30px' }} />
+            </div>
+          </div>
+        </div>
+
+        {/* Stats Section */}
+        <div className="stats-section">
+          <div className="stat-item">
+            <div className="stat-icon heart">
+              <img src="./img3.png" alt="" />
+            </div>
+            <div className="stat-content">
+              <h4>1000+</h4>
+              <p>Happy pets</p>
+            </div>
+          </div>
+          <div className="stat-item">
+            <div className="stat-icon check">
+              <img src="./img4.png" alt="" />
+            </div>
+            <div className="stat-content">
+              <h4>150+</h4>
+              <p>Expert groomers</p>
+            </div>
+          </div>
+          <div className="stat-item">
+            <div className="stat-icon star">
+              <img src="./img5.png" alt="" />
+            </div>
+            <div className="stat-content">
+              <h4>4.9</h4>
+              <p>Avg. rating</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+};
+
+export default HeroSection;
